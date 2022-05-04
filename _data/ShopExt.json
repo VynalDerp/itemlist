@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -26,14 +26,14 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -49,21 +49,21 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Bloodlust",
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
-      "description": "Timmy is exceptionally kind. he has a special way of using kind words to brighten someone's day. he never insults others, and never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
-
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "abrasive",
@@ -81,21 +81,22 @@
           "psychopath"
         ],
         "stats": [
-
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
-
+        "Morbid meditation focus type allowed.",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -111,21 +112,22 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed.",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Psychopath",
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -141,21 +143,21 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Cannibal",
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -171,22 +173,23 @@
 
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Abrasive",
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
         "+75% global learning factor",
-        "+12% mental break threshold"
+        "+12% mental break threshold",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "iron-willed",
@@ -211,15 +214,16 @@
         ],
         "stats": [
           "+75% global learning factor",
-          "+12% mental break threshold"
+          "+12% mental break threshold",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "TooSmart",
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -258,17 +262,17 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
@@ -278,18 +282,18 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "wimp"
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Masochist",
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -318,8 +322,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -350,14 +354,14 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
         "ascetic",
@@ -375,21 +379,23 @@
           "greedy"
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Jealous",
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
-      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
-
+        "Artistic meditation focus type disabled.",
+        "Minimal meditation focus type allowed.",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "greedy",
@@ -409,15 +415,17 @@
           "gourmand"
         ],
         "stats": [
-
+          "Artistic meditation focus type disabled.",
+          "Minimal meditation focus type allowed.",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Ascetic",
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -446,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -476,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -506,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -536,8 +544,8 @@
       "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -566,13 +574,14 @@
       "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
       "stats": [
+        "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [
@@ -589,6 +598,7 @@
 
         ],
         "stats": [
+          "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
         ]
       },
@@ -596,17 +606,19 @@
       "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
-        "-60% pain shock threshold"
+        "-60% pain shock threshold",
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
-        "brawler"
+        "brawler",
+        "masochist"
       ],
       "bypassLimit": false,
       "data": {
@@ -616,18 +628,20 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "brawler"
+          "brawler",
+          "masochist"
         ],
         "stats": [
-          "-60% pain shock threshold"
+          "-60% pain shock threshold",
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Wimp",
       "name": "wimp",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -658,8 +672,8 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -688,14 +702,15 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
-        "-75% global learning factor"
+        "-75% global learning factor",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "toosmart"
@@ -711,21 +726,22 @@
           "toosmart"
         ],
         "stats": [
-          "-75% global learning factor"
+          "-75% global learning factor",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "SlowLearner",
       "name": "slowlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -741,15 +757,15 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Undergrounder",
       "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -775,11 +791,11 @@
         ]
       },
       "defName": "Transhumanist",
-      "name": "transhumanist",
+      "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -788,7 +804,7 @@
 
       ],
       "conflicts": [
-        "transhumanist"
+        "bodymodder"
       ],
       "bypassLimit": false,
       "data": {
@@ -798,7 +814,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "transhumanist"
+          "bodymodder"
         ],
         "stats": [
 
@@ -808,8 +824,8 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -838,8 +854,8 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -868,14 +884,14 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
-      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
+      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
       "stats": [
-
+        "+25% global learning factor"
       ],
       "conflicts": [
 
@@ -891,15 +907,15 @@
 
         ],
         "stats": [
-
+          "+25% global learning factor"
         ]
       },
       "defName": "GreatMemory",
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -928,14 +944,14 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
       "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -951,15 +967,15 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "TorturedArtist",
       "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -990,8 +1006,8 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -1020,8 +1036,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -1052,8 +1068,8 @@
       "name": "slowpoke",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
@@ -1082,8 +1098,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1112,8 +1128,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -1142,8 +1158,8 @@
       "name": "chemicalfascination",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -1172,8 +1188,8 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1204,8 +1220,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
@@ -1234,8 +1250,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -1264,8 +1280,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1294,8 +1310,8 @@
       "name": "pessimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
@@ -1324,14 +1340,15 @@
       "name": "depressive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -2
     },
     {
       "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
-        "-18% mental break threshold"
+        "-18% mental break threshold",
+        "x25% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1347,21 +1364,23 @@
 
         ],
         "stats": [
-          "-18% mental break threshold"
+          "-18% mental break threshold",
+          "x25% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
       "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
-        "-9% mental break threshold"
+        "-9% mental break threshold",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1377,21 +1396,23 @@
 
         ],
         "stats": [
-          "-9% mental break threshold"
+          "-9% mental break threshold",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
       "description": "Timmy tends to crack under pressure.",
       "stats": [
-        "+8% mental break threshold"
+        "+8% mental break threshold",
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1407,21 +1428,23 @@
 
         ],
         "stats": [
-          "+8% mental break threshold"
+          "+8% mental break threshold",
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "nervous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
-        "+15% mental break threshold"
+        "+15% mental break threshold",
+        "x300% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1437,15 +1460,16 @@
 
         ],
         "stats": [
-          "+15% mental break threshold"
+          "+15% mental break threshold",
+          "x300% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "volatile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -2
     },
     {
@@ -1476,8 +1500,8 @@
       "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1508,8 +1532,8 @@
       "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -1538,8 +1562,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -1568,8 +1592,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1598,8 +1622,8 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
@@ -1628,8 +1652,8 @@
       "name": "slothful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -2
     },
     {
@@ -1658,8 +1682,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -1688,8 +1712,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1718,8 +1742,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
@@ -1748,8 +1772,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -2
     },
     {
@@ -1780,8 +1804,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1812,8 +1836,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
@@ -1842,8 +1866,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -1872,8 +1896,8 @@
       "name": "pretty",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1902,8 +1926,8 @@
       "name": "ugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
     },
     {
@@ -1932,8 +1956,8 @@
       "name": "staggeringlyugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -2
     },
     {
@@ -1962,8 +1986,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -1992,9 +2016,135 @@
       "name": "sickly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 2500,
       "degree": -1
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 2500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 2500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "Faith",
+      "name": "faith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 2500,
+      "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 2500,
+      "degree": 0
     }
   ],
   "races": [
@@ -2007,10 +2157,10 @@
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
           "+46.8F Maximum comfortable temperature",
-          "+50 Leather amount",
+          "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "RimWorld",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -2019,6 +2169,1356 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+95.00 Mass",
+          "+$3500 Market value",
+          "+100% Flammability",
+          "+6.00 Move speed",
+          "+30% Mental break threshold",
+          "+72.0F Maximum comfortable temperature",
+          "+43.2F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+90 Carrying capacity",
+          "+80 Meat amount",
+          "+65 Leather amount",
+          "+80% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+70% Eating speed",
+          "+2.0 Melee dodge chance",
+          "+1.8 Melee hit chance",
+          "+110% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+150.00% Negotiation ability",
+          "+120% Sell price multiplier",
+          "+130.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+130% General labor speed",
+          "+300% Butchery efficiency",
+          "+200% Butchery speed",
+          "+140.00% Food poison chance",
+          "+0.6 Cooking speed",
+          "+120% Rest rate multiplier",
+          "+40% Plant work speed",
+          "+80% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+120% Mining speed",
+          "+90% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Rakkle is an artificial species created by humans by improving reptile native life found on a planet in the middle of the system.",
+      "defName": "Rakkle",
+      "enabled": false,
+      "name": "Rakkle",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+90% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+85.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin",
+      "enabled": false,
+      "name": "Ratkin",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+80% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+75.00% Negotiation ability",
+          "+95.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed",
+          "+85% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin_Su",
+      "enabled": false,
+      "name": "Ratkin subject",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+5.00 Move speed",
+          "-10.8F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+120% Research speed",
+          "+100% Mining speed",
+          "+120.00% Social impact",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline callistan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Callistan planets. A nocturnal mammalian humanoid canine race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
+      "defName": "Alien_Callistan",
+      "enabled": true,
+      "name": "callistan",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.60 Move speed",
+          "-14.4F Minimum comfortable temperature",
+          "+32.4F Maximum comfortable temperature",
+          "+3 Honor value",
+          "+20.0% Armor - Blunt",
+          "+50 Leather amount",
+          "+105% Global learning factor",
+          "+110% Pain shock threshold",
+          "+125% Psychic sensitivity",
+          "+85% Toxic sensitivity",
+          "+85% Plant work speed",
+          "+90% Plant harvest yield",
+          "+90.00% Social impact",
+          "+85.00% Negotiation ability",
+          "+85.00% Trade price improvement",
+          "+130% Hunting stealth",
+          "+105% General labor speed",
+          "+105% Drug synthesis speed",
+          "+105% Drug cooking speed",
+          "+110% Butchery efficiency",
+          "+115.00% Tame animal chance",
+          "+115.00% Train animal chance",
+          "+115% Animal gather speed",
+          "+90% Aiming time",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee dodge chance",
+          "+1.1 Melee hit chance",
+          "+85 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
+      "defName": "Arachne",
+      "enabled": false,
+      "name": "arachne",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+125 Carrying capacity",
+          "+5.0 Melee hit chance",
+          "+80% Incoming damage multiplier",
+          "+90% Pain shock threshold",
+          "+2 Foraged food amount",
+          "+70.00% Trade price improvement",
+          "+120.00% Negotiation ability",
+          "+0.5 Beauty",
+          "+133% Aiming time",
+          "+80% Research speed",
+          "+80% Drug synthesis speed",
+          "+110.00% Tame animal chance",
+          "+110.00% Train animal chance",
+          "+120% Animal gather yield",
+          "+120% Plant work speed",
+          "+110% Plant harvest yield",
+          "+30.0% Armor - Sharp",
+          "+10.0% Armor - Blunt",
+          "+20.0% Armor - Heat",
+          "+6 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A large, graceful humanoid creature, with long white fur, a large sharp horn and short simple tail. Their striking resemblance to Thrumbos gave them their name and leaves no doubt to where this race might have originated from.\n\nWhile generally peaceful they make excellent melee fighters, thanks to their resilent hide and razor sharp horn. Thrumkin live in harmony with nature and know more about plants and animals than most advanced cultures, at least on the planet they are living on.\n\nThey are not particularly skilled when it comes to building tools and using them, neither are their structures more than simple protection from the elements.\n\nGood at: Melee, Plants, Animals, General Labor, Absorbing Damage\nBad at: Shooting, Quality Crafting/Construction, Drug Production, Research, Trading, Cooking, Not eating your entire supplies of food",
+      "defName": "Thrumkin",
+      "enabled": true,
+      "name": "thrumkin",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+7.85 Move speed",
+          "-108.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+120% Research speed",
+          "+95% Mining speed",
+          "+120.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+6.23 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+110% Research speed",
+          "+98% Mining speed",
+          "+125.00% Social impact",
+          "+1.2 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
+      "defName": "Alien_OrassanHumanHybrid",
+      "enabled": true,
+      "name": "neko",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": false,
+      "name": "hologram",
+      "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-108.0F Minimum comfortable temperature",
+          "+360.0F Maximum comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A zombie",
+      "defName": "Zombie",
+      "enabled": false,
+      "name": "Zombie",
+      "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+5.00 Move speed",
+          "-10.8F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+120% Research speed",
+          "+100% Mining speed",
+          "+120.00% Social impact",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline trenchcat, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-TrenchCat planets. A nocturnal mammalian humanoid feline race. They have recently joined the Callistan Dominion.",
+      "defName": "Alien_TrenchCat",
+      "enabled": true,
+      "name": "trenchcat",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A nearly immortal race, the astoriel have evolved beyond the scope of most other life forms. Their unique physiology grants them many advantages.",
+      "defName": "Alien_Astoriel",
+      "enabled": false,
+      "name": "astoriel",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+33% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+75 Leather amount",
+          "+2 Honor value",
+          "+5.0 Shooting accuracy",
+          "+120% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+37.8F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+64% Pain shock threshold",
+          "+80% Aiming time",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+80% Animal gather yield",
+          "+80% Plant work speed",
+          "+110% Butchery efficiency",
+          "+150% Mechanoid shredding efficiency",
+          "+9.60 Neural heat recovery rate"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
+      "defName": "Naga",
+      "enabled": false,
+      "name": "naga",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.55 Move speed",
+          "+50.4F Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+100% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+100.00% Social impact",
+          "+100% General labor speed",
+          "+100% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+6 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Heyras settled in Rimworld a long time ago. They possess a unique psychic ability to, occasionally, hear whispers in their heads. Despite these whispers being mostly scattered words, Heyras believe they are the oracles of God. We do not know if these whispers are real. But it is confirmed that Heyras have a higher psychic sensitivity than humans.",
+      "defName": "Alien_Heyra",
+      "enabled": false,
+      "name": "Heyra",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.80 Move speed",
+          "+63.0F Maximum comfortable temperature",
+          "+18.0F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+80% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
+          "+55.00% Social impact",
+          "+80% General labor speed",
+          "+120% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+6 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "These savage barbarians are the nemesis of Heyras. They have thrown away the sense of moral and pursuit the primal pleasure. A series of evidence indicates that Rong is a separated branch of Heyra, although the Supreme Hierarch of Heyra denies this in all her strength.",
+      "defName": "Alien_Heyra_Rong",
+      "enabled": false,
+      "name": "Rong",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$3200 Market value",
+          "+4.00 Move speed",
+          "+32.4F Maximum comfortable temperature",
+          "+3.6F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100.00% Social impact",
+          "+85% General labor speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+      "defName": "Alien_Moyo",
+      "enabled": false,
+      "name": "Moyo",
+      "price": 5333
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+35% Flammability",
+          "+$3200 Market value",
+          "+4.50 Move speed",
+          "+54.0F Maximum comfortable temperature",
+          "+18.0F Minimum comfortable temperature",
+          "+135% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+100 Meat amount",
+          "+60 Leather amount",
+          "+5% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+55.00% Social impact",
+          "+115% General labor speed",
+          "+100% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+120% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+2 Honor value",
+          "+75% Aiming time"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
+      "defName": "Alien_RedMoyo",
+      "enabled": false,
+      "name": "Red Moyo",
+      "price": 5333
+    },
+    {
+      "data": {
+        "stats": [
+          "+56.00 Mass",
+          "+200% Flammability",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+3% Mental break threshold",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+80% Global learning factor",
+          "+120% Hunger rate multiplier",
+          "+140% Rest rate multiplier",
+          "+200% Eating speed",
+          "+400% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40 Meat amount",
+          "+0 Leather amount",
+          "+0 Minimum handling skill",
+          "+100% Pain shock threshold",
+          "+1.4 Foraged food amount",
+          "+90.00% Negotiation ability",
+          "+90.00% Trade price improvement",
+          "+90.00% Social impact",
+          "+90% Global work speed",
+          "+100% General labor speed",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "-540.0F Minimum comfortable temperature",
+          "+41.4F Maximum comfortable temperature",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Mincho is a slime-like race fully comprised of mintchoco ice cream.\n\nICEcRIM Co. created slime using mintchoco flavor ice cream with variant mechanite as an advertisement toy. However, due to an accidental mix-up during the final production stage, the wrong kind of variant, that was supposed to be disposed of due to critical defects, was used.\n\nMincho mimics human beings out of pure affection. They wish the humans to love them and \"consume\" them.\n\nDue to the simplicity of body composition, they are capable of regenerating even severed heads, resilient against diseases, and endures most fatal wounds.\n\nDifferences in the nerve system made them also immune to pain and psychic waves.\n\nHowever, Mincho is not capable of thinking, slow to learn and work, and weak against heat. \n\nWhen they are killed somehow (perhaps by having their core destroyed) they will turn into a lump of mintchoco ice cream.",
+      "defName": "Mincho_ThingDef",
+      "enabled": false,
+      "name": "mincho",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+$2000 Market value",
+          "+5.48 Move speed",
+          "+20% Flammability",
+          "+25.2F Minimum comfortable temperature",
+          "+68.4F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+80% Research speed",
+          "+120% Mining speed",
+          "+90.00% Social impact",
+          "+95% Pain shock threshold",
+          "+125% Construction speed",
+          "+120% Immunity gain speed",
+          "+120% Psychic sensitivity",
+          "+4.0 Melee hit chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Lapelli is Developed by advanced genetic engineering. They are strong, strong in strength and stamina, suitable for simple labor, and prefer close combat. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "ALapelli",
+      "enabled": true,
+      "name": "Lapelli",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+5.25 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+3 Honor value",
+          "+90% Research speed",
+          "+125% Mining speed",
+          "+95.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A bloodthirsty vulpine near-human.",
+      "defName": "ReviaRaceAlien",
+      "enabled": false,
+      "name": "Revia",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$3000 Market value",
+          "+5 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+70% Global work speed",
+          "+0 Foraged food amount",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
+          "+40 Leather amount",
+          "+82% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+39.6F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+5.20 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": false,
+      "name": "Nyaron",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+38% Mental break threshold",
+          "+46.8F Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+120% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+0.8 Melee hit chance",
+          "+80% Aiming time",
+          "+1.2 Shooting accuracy",
+          "+100.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+120% Drug synthesis speed",
+          "+120% Medical surgery success chance",
+          "+80% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Inhabitants of lunar cities that carry the genes of rabbits, the rabbie excel at waging war and constructing mega-cities. They travel the galaxy in search of celestial bodies with planetarium; a drug that the rabbie population has been reliant on for survival since the begining of their history. It is believed they originally came from another galaxy, but have sinced lost the technology and have been cut off from their home galaxy.",
+      "defName": "Rabbie",
+      "enabled": false,
+      "name": "Rabbie",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.8F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+100.00% Social impact",
+          "+100% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+100% Immunity gain speed",
+          "+95% Incoming damage multiplier",
+          "+40.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+0.0% Armor - Heat",
+          "+90% Pain shock threshold",
+          "+60% Research speed",
+          "+70.00% Negotiation ability",
+          "+80% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "アニマルガールとは、動物がサンドスターを浴びたことにより人の姿に変化した生物のことです。生物といってもきぐるみ、宝石、漫画やゲームの登場人物、マスコットキャラクター、思考戦車がアニマルガールに変化することがあるようです。ヒトがアニマルガールになるかどうかはわかっていません。（少なくとも、ジャパリパーク職員が残した記録では。）寿命は人の半分ほどで、体重もヒトよりいくらか軽いようです。アニマルガールはヒトよりも高い身体能力を持ち、物理的な攻撃に高い耐性を持っています。ただし、炎は苦手で耐性がないようです。また、研究も苦手なようで作業速度もわずかに遅めです。社交的な能力は問題ありませんが外交のノウハウはあまり持ち合わせていないようです。",
+      "defName": "HAR_Animalgirl",
+      "enabled": false,
+      "name": "アニマルガール",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.5 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.10 Move speed",
+          "-36.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+25.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-72.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+60 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Cowgirl that has developed a semblance of intelligence.",
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+90% Flammability",
+          "+$1600 Market value",
+          "+4.80 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+45 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Harpy that has developed a semblance of intelligence.",
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "price": 2667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1800 Market value",
+          "+4.00 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+108.0F Maximum comfortable temperature",
+          "+200% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+70% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "+18.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+10% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+120.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Baphomet that has developed a semblance of intelligence.",
+      "defName": "MG_Baphomet",
+      "enabled": false,
+      "name": "Baphomet",
+      "price": 3083
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+6.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+7.5% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+75 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Centaur that has developed a semblance of intelligence.",
+      "defName": "MG_Centaur",
+      "enabled": false,
+      "name": "Centaur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+80% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+18.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+500% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+500% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "-540.0F Minimum comfortable temperature",
+          "+0.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+5% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-36.0F Minimum comfortable temperature",
+          "+180.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+120% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-99.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+15.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Thrumbogirl",
+      "enabled": false,
+      "name": "Thrumbogirl",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+200% Flammability",
+          "+32.4F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+60% Hunger rate multiplier",
+          "+7.00 Move speed",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+10 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+300% Immunity gain speed",
+          "+500% Eating speed",
+          "+130% Incoming damage multiplier",
+          "+400% Medical tend speed",
+          "+300% Medical tend quality",
+          "+200% Medical operation speed",
+          "+300% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A small friendly gelatinous being.\nMoonjellies are quick and nimble, and exceptionally skilled with medicine.\nBut be warned, their delicate bodies make them poor combatants and very vulnerable to danger.",
+      "defName": "Moonjelly_Race",
+      "enabled": false,
+      "name": "Moonjelly",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2096 Market value",
+          "+7.00 Move speed",
+          "+27.0F Minimum comfortable temperature",
+          "+48.6F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+5 Honor value",
+          "+300% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Gardevoir is a bipedal, humanoid Pokémon whose body resembles a flowing gown.",
+      "defName": "Gardevoir",
+      "enabled": true,
+      "name": "gardevoir",
+      "price": 3492
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+115% Psychic sensitivity",
+          "+$2000 Market value",
+          "+7.50 Move speed",
+          "-7.2F Minimum comfortable temperature",
+          "+57.6F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+115.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Sylveon is a quadrupedal, mammalian Pokémon covered with pale cream-colored fur with pink feet, ears, and tail. It has light blue eyes, long ears with blue interiors and thicker fur, a tiny nose, and two stray tufts of fur on top of its head. How they got here, nobody quite knows, though it's theorized that some Glitterworld nerd tried to bring them into existence; Of which they succeeded, but still, creepy.\n\t\n+ Due to baby doll eyes, sylveons do well in social situations.\n+ Faster than humans.\n+ Their fur insulates them a tad.\n~ Uses their claws!\n~ Slightly more sensitive to psychic effects.\n- 5% less HP than humans.\n- Gets hungry slightly faster.",
+      "defName": "EA_SylveonRace",
+      "enabled": true,
+      "name": "sylveon",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+30% Flammability",
+          "+36.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+80 Leather amount",
+          "+60 Meat amount",
+          "+$1200 Market value",
+          "+5.00 Move speed",
+          "+30 Carrying capacity",
+          "+50% Toxic sensitivity",
+          "+120% Immunity gain speed",
+          "+120% Psychic sensitivity",
+          "+110% Plant harvest yield",
+          "+300% Hunting stealth",
+          "+0.5 Filth rate",
+          "+120% Eating speed",
+          "+0.8 Cooking speed",
+          "+80% Construction speed",
+          "+15.0 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of snake.",
+      "defName": "SnakeFeral",
+      "enabled": false,
+      "name": "snake",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1750 Market value",
+          "+0% Toxic sensitivity",
+          "+1.70 Move speed",
+          "-1620.0F Minimum comfortable temperature",
+          "+1620.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+100% Incoming damage multiplier",
+          "+50% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+500% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "When the impostor is sus",
+      "defName": "AmogusRace",
+      "enabled": false,
+      "name": "amogus",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1750 Market value",
+          "+12.70 Move speed",
+          "-162.0F Minimum comfortable temperature",
+          "+162.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+6 Honor value",
+          "+25% Incoming damage multiplier",
+          "+50% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+170.0% Armor - Blunt",
+          "+150.0% Armor - Sharp",
+          "+500% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Beanos",
+      "defName": "Dabean",
+      "enabled": false,
+      "name": "Beanos",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+70% Flammability",
+          "+28.8F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+15 Leather amount",
+          "+15 Meat amount",
+          "+$900 Market value",
+          "+4.60 Move speed",
+          "+45 Carrying capacity",
+          "+150% Pain shock threshold",
+          "+50% Mental break threshold"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The creation of a twisted bioengineer. A race of skinny humanoids with large heads, violent behavior and an impressive resistence to damage.",
+      "defName": "Stick_Stickman",
+      "enabled": false,
+      "name": "stickman",
+      "price": 1500
     }
   ]
 }
