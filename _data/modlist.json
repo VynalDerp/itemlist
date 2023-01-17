@@ -151,6 +151,12 @@
   },
   {
     "author": "Owlchemist",
+    "name": "Simple FX: Vapor",
+    "steamId": "2886571275",
+    "version": "1.4"
+  },
+  {
+    "author": "Owlchemist",
     "name": "Scattered Flames",
     "steamId": "2652749788",
     "version": "1.4"
@@ -336,6 +342,18 @@
     "version": null
   },
   {
+    "author": "Keshash",
+    "name": "Igniting Sticks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Craftable Foil Hats (Continued)",
     "steamId": null,
@@ -393,7 +411,7 @@
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.4.6"
+    "version": "1.4.7"
   },
   {
     "author": "Neronix17",
@@ -688,6 +706,36 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0"
+  },
+  {
+    "author": "Tials",
+    "name": "Floordrawings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VinaLx and Owlchemist",
+    "name": "ResearchPowl",
+    "steamId": "2877856030",
+    "version": "1.4"
+  },
+  {
+    "author": "ChJees, Rock5 and Valcrafto",
+    "name": "RimSearch 1.4",
+    "steamId": "2553187219",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TheSleeplessSorclock and Haecriver",
+    "name": "Age Morphosis Cells (Continued)",
+    "steamId": "2616426855",
+    "version": "1.4.1"
   },
   {
     "author": "void",

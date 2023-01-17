@@ -40,7 +40,7 @@
       "abr": "81mmmortarshell(smoke)",
       "category": "81mm mortar shell",
       "defname": "Shell_Smoke",
-      "price": 62
+      "price": -10
     },
     {
       "abr": "advancedcomponent",
@@ -280,7 +280,7 @@
       "abr": "boomalope",
       "category": "Animals",
       "defname": "Boomalope",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "boomalopemeat",
@@ -310,7 +310,7 @@
       "abr": "breachaxe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_BreachAxe",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "brenmk4",
@@ -472,7 +472,7 @@
       "abr": "club",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Club",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "cobra",
@@ -502,7 +502,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "compositehelmet",
@@ -772,7 +772,7 @@
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "firefoampoppack",
@@ -868,7 +868,7 @@
       "abr": "gladius",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Gladius",
-      "price": -10
+      "price": 239
     },
     {
       "abr": "glitterworldmedicine",
@@ -1162,7 +1162,7 @@
       "abr": "ikwa",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Ikwa",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "infinitechemreactor",
@@ -1222,7 +1222,7 @@
       "abr": "knife",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Knife",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "labradorretriever",
@@ -1246,7 +1246,7 @@
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "lee-enfield",
@@ -1282,7 +1282,7 @@
       "abr": "longsword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_LongSword",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "luciferium",
@@ -1336,7 +1336,7 @@
       "abr": "mace",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Mace",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "machiningtable",
@@ -1906,7 +1906,7 @@
       "abr": "animusvox",
       "category": "Animals",
       "defname": "AA_AnimusVox",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "architecapsule",
@@ -2086,7 +2086,7 @@
       "abr": "axe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Axe",
-      "price": -10
+      "price": 209
     },
     {
       "abr": "babydecoration",
@@ -3106,7 +3106,7 @@
       "abr": "crimsonblossom",
       "category": "Melee weapons",
       "defname": "ReviaBlessedSerratedDagger",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "crossback",
@@ -3520,7 +3520,7 @@
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "eltexvest",
@@ -3586,7 +3586,7 @@
       "abr": "eviscerator",
       "category": "Melee weapons",
       "defname": "ReviaSerratedDagger",
-      "price": -10
+      "price": 289
     },
     {
       "abr": "exoticsmelter",
@@ -3730,7 +3730,7 @@
       "abr": "flaregun",
       "category": "Ranged weapons",
       "defname": "Eccentric_FlareGun",
-      "price": -10
+      "price": 179
     },
     {
       "abr": "fleshcraftedarm",
@@ -4312,7 +4312,7 @@
       "abr": "harvester",
       "category": "Melee weapons",
       "defname": "ReviaSerratedScythe",
-      "price": -10
+      "price": 683
     },
     {
       "abr": "hayloft",
@@ -4642,7 +4642,7 @@
       "abr": "karambit",
       "category": "Melee weapons",
       "defname": "Nr_Karambit",
-      "price": -10
+      "price": 98
     },
     {
       "abr": "kemeticslab(broad)",
@@ -6742,13 +6742,13 @@
       "abr": "akm",
       "category": "Ranged weapons",
       "defname": "CE_Gun_AKM",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "akm+gp-25",
       "category": "Ranged weapons",
       "defname": "CE_Gun_AKMGL",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "anti-tankgrenade",
@@ -6832,7 +6832,7 @@
       "abr": "binoculars",
       "category": "Ranged weapons",
       "defname": "Gun_BinocularsRadio",
-      "price": -10
+      "price": 1083
     },
     {
       "abr": "bionicfinger",
@@ -7114,7 +7114,7 @@
       "abr": "halberd",
       "category": "Melee weapons",
       "defname": "CE_Melee_Halberd",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "heatingribimplant",
@@ -7222,7 +7222,7 @@
       "abr": "ksg",
       "category": "Ranged weapons",
       "defname": "CE_Gun_KSG",
-      "price": -10
+      "price": 642
     },
     {
       "abr": "l-8chargelmg",
@@ -7246,7 +7246,7 @@
       "abr": "lematrevolver",
       "category": "Ranged weapons",
       "defname": "CE_Gun_LeMatRevolver",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "lightreceptor",
@@ -7288,7 +7288,7 @@
       "abr": "m72law",
       "category": "Ranged weapons",
       "defname": "CE_DisposableRocketLauncher",
-      "price": -10
+      "price": 152
     },
     {
       "abr": "m79",
@@ -7306,7 +7306,7 @@
       "abr": "maul",
       "category": "Melee weapons",
       "defname": "CE_Melee_Maul",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "medicalribimplant",
@@ -7456,7 +7456,7 @@
       "abr": "pkm",
       "category": "Ranged weapons",
       "defname": "CE_Gun_PKM",
-      "price": -10
+      "price": 808
     },
     {
       "abr": "platehelmet",
@@ -8422,7 +8422,7 @@
       "abr": "redinquisitor",
       "category": "Melee weapons",
       "defname": "ReviaBlessedSerratedSword",
-      "price": -10
+      "price": 1775
     },
     {
       "abr": "redspore",
@@ -8812,7 +8812,7 @@
       "abr": "saiga12k",
       "category": "Ranged weapons",
       "defname": "Gun_ChainShotgun",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "sandlion",
@@ -8890,7 +8890,7 @@
       "abr": "scourge",
       "category": "Melee weapons",
       "defname": "ReviaSerratedSword",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "scutum",
@@ -8956,7 +8956,7 @@
       "abr": "shatterer",
       "category": "Melee weapons",
       "defname": "ReviaWarPick",
-      "price": -10
+      "price": 775
     },
     {
       "abr": "sheep",
@@ -9058,7 +9058,7 @@
       "abr": "shredder",
       "category": "Melee weapons",
       "defname": "ReviaChainSword",
-      "price": -10
+      "price": 2133
     },
     {
       "abr": "signalchip",
@@ -9382,7 +9382,7 @@
       "abr": "spear",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Spear",
-      "price": -10
+      "price": 322
     },
     {
       "abr": "spelopede",
@@ -9682,7 +9682,7 @@
       "abr": "svd",
       "category": "Ranged weapons",
       "defname": "CE_Gun_SVD",
-      "price": -10
+      "price": 558
     },
     {
       "abr": "swarmling",
@@ -10582,7 +10582,7 @@
       "abr": "vermilliontide",
       "category": "Melee weapons",
       "defname": "ReviaBlessedSerratedScythe",
-      "price": -10
+      "price": 6575
     },
     {
       "abr": "verybigshelves",
@@ -10660,7 +10660,7 @@
       "abr": "warhammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Warhammer",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "wasterat",
@@ -10870,7 +10870,7 @@
       "abr": "wraithblade",
       "category": "Melee weapons",
       "defname": "CE_Melee_WraithBlade",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "wyvernammo(normal)",
@@ -11332,7 +11332,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "zombieextract",
@@ -11416,7 +11416,7 @@
       "abr": "zweihander",
       "category": "Melee weapons",
       "defname": "CE_Melee_Zweihander",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "jelliedchemfuel",
@@ -11500,25 +11500,25 @@
       "abr": "164x284mmdemolitionshell",
       "category": "164x284mm Demolition Shell",
       "defname": "Ammo_164x284mmDemo",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "30x64mmfuelcell(incendiary)",
       "category": "30x64mm Fuel Cell",
       "defname": "Ammo_30x64mmFuel_Incendiary",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "30x64mmfuelcell(thermobaric)",
       "category": "30x64mm Fuel Cell",
       "defname": "Ammo_30x64mmFuel_Thermobaric",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "30x64mmfuelcell(foam)",
       "category": "30x64mm Fuel Cell",
       "defname": "Ammo_30x64mmFuel_Foam",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "5x35mmchargedcartridge",
@@ -11620,13 +11620,13 @@
       "abr": "30x29mmgrenade(he)",
       "category": "30x29mm Grenade",
       "defname": "Ammo_30x29mmGrenade_HE",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "30x29mmgrenade(heairburst)",
       "category": "30x29mm Grenade",
       "defname": "Ammo_30x29mmGrenade_HE_TFuzed",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "30x29mmgrenade(emp)",
@@ -11638,31 +11638,31 @@
       "abr": "30x29mmgrenade(smoke)",
       "category": "30x29mm Grenade",
       "defname": "Ammo_30x29mmGrenade_Smoke",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "40x46mmgrenade(he)",
       "category": "40x46mm Grenade",
       "defname": "Ammo_40x46mmGrenade_HE",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "40x46mmgrenade(hetimefuzed)",
       "category": "40x46mm Grenade",
       "defname": "Ammo_40x46mmGrenade_HE_TFuzed",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "40x46mmgrenade(hedp)",
       "category": "40x46mm Grenade",
       "defname": "Ammo_40x46mmGrenade_HEDP",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "40x46mmgrenade(emp)",
       "category": "40x46mm Grenade",
       "defname": "Ammo_40x46mmGrenade_EMP",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "40x46mmgrenade(smoke)",
@@ -11674,31 +11674,31 @@
       "abr": "40x46mmgrenade(tox)",
       "category": "40x46mm Grenade",
       "defname": "Ammo_40x46mmGrenade_Tox",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "40x53mmgrenade(he)",
       "category": "40x53mm Grenade",
       "defname": "Ammo_40x53mmGrenade_HE",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "40x53mmgrenade(hetimefuzed)",
       "category": "40x53mm Grenade",
       "defname": "Ammo_40x53mmGrenade_HE_TFuzed",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "40x53mmgrenade(hedp)",
       "category": "40x53mm Grenade",
       "defname": "Ammo_40x53mmGrenade_HEDP",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "40x53mmgrenade(emp)",
       "category": "40x53mm Grenade",
       "defname": "Ammo_40x53mmGrenade_EMP",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "40x53mmgrenade(smoke)",
@@ -11710,19 +11710,19 @@
       "abr": "40x53mmvog-25grenade(he)",
       "category": "40x53mm VOG-25 Grenade",
       "defname": "Ammo_40x53mmVOG25Grenade_HE",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "40x53mmvog-25grenade(hetimefuzed)",
       "category": "40x53mm VOG-25 Grenade",
       "defname": "Ammo_40x53mmVOG25Grenade_HE_TFuzed",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "40x53mmvog-25grenade(emp)",
       "category": "40x53mm VOG-25 Grenade",
       "defname": "Ammo_40x53mmVOG25Grenade_EMP",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "40x53mmvog25grenade(smoke)",
@@ -11734,7 +11734,7 @@
       "abr": "14.5x114mmcartridge(fmj)",
       "category": "14.5x114mm",
       "defname": "Ammo_145x114mm_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "14.5x114mmcartridge(ap)",
@@ -11746,13 +11746,13 @@
       "abr": "14.5x114mmcartridge(ap-i)",
       "category": "14.5x114mm",
       "defname": "Ammo_145x114mm_Incendiary",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "14.5x114mmcartridge(ap-he)",
       "category": "14.5x114mm",
       "defname": "Ammo_145x114mm_HE",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "14.5x114mmcartridge(sabot)",
@@ -11770,19 +11770,19 @@
       "abr": "20x102mmnatocartridge(ap-i)",
       "category": "20x102mm NATO",
       "defname": "Ammo_20x102mmNATO_Incendiary",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "20x102mmnatocartridge(ap-he)",
       "category": "20x102mm NATO",
       "defname": "Ammo_20x102mmNATO_HE",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "20x102mmnatocartridge(sabot)",
       "category": "20x102mm NATO",
       "defname": "Ammo_20x102mmNATO_Sabot",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "40x311mmrcartridge(ap)",
@@ -11794,13 +11794,13 @@
       "abr": "40x311mmrcartridge(ap-i)",
       "category": "40x311mmR",
       "defname": "Ammo_40x311mmR_Incendiary",
-      "price": -10
+      "price": 19
     },
     {
       "abr": "40x311mmrcartridge(ap-he)",
       "category": "40x311mmR",
       "defname": "Ammo_40x311mmR_HE",
-      "price": -10
+      "price": 29
     },
     {
       "abr": "40x311mmrcartridge(sabot)",
@@ -11812,7 +11812,7 @@
       "abr": ".50bmgcartridge(fmj)",
       "category": ".50 BMG",
       "defname": "Ammo_50BMG_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".50bmgcartridge(ap)",
@@ -11824,13 +11824,13 @@
       "abr": ".50bmgcartridge(ap-i)",
       "category": ".50 BMG",
       "defname": "Ammo_50BMG_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".50bmgcartridge(ap-he)",
       "category": ".50 BMG",
       "defname": "Ammo_50BMG_HE",
-      "price": -10
+      "price": 2
     },
     {
       "abr": ".50bmgcartridge(sabot)",
@@ -11878,19 +11878,19 @@
       "abr": "arrow(stone)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Stone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "arrow(steel)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Steel",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "arrow(plasteel)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Plasteel",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "arrow(venom)",
@@ -11902,7 +11902,7 @@
       "abr": "arrow(flame)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Flame",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "greatarrow(stone)",
@@ -11938,13 +11938,13 @@
       "abr": ".22lrcartridge(fmj)",
       "category": ".22 LR",
       "defname": "Ammo_22LR_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".22lrcartridge(ap)",
       "category": ".22 LR",
       "defname": "Ammo_22LR_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".22lrcartridge(hp)",
@@ -11956,13 +11956,13 @@
       "abr": ".44magnumcartridge(fmj)",
       "category": ".44 Magnum",
       "defname": "Ammo_44Magnum_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".44magnumcartridge(ap)",
       "category": ".44 Magnum",
       "defname": "Ammo_44Magnum_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".44magnumcartridge(hp)",
@@ -11974,13 +11974,13 @@
       "abr": ".45acpcartridge(fmj)",
       "category": ".45 ACP",
       "defname": "Ammo_45ACP_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".45acpcartridge(ap)",
       "category": ".45 ACP",
       "defname": "Ammo_45ACP_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".45acpcartridge(hp)",
@@ -11992,7 +11992,7 @@
       "abr": ".303britishcartridge(fmj)",
       "category": ".303 British",
       "defname": "Ammo_303British_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303britishcartridge(ap)",
@@ -12010,13 +12010,13 @@
       "abr": ".303britishcartridge(ap-i)",
       "category": ".303 British",
       "defname": "Ammo_303British_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303britishcartridge(ap-he)",
       "category": ".303 British",
       "defname": "Ammo_303British_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303britishcartridge(sabot)",
@@ -12064,7 +12064,7 @@
       "abr": "5.56x45mmnatocartridge(fmj)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnatocartridge(ap)",
@@ -12082,13 +12082,13 @@
       "abr": "5.56x45mmnatocartridge(ap-i)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnatocartridge(ap-he)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnatocartridge(sabot)",
@@ -12142,7 +12142,7 @@
       "abr": "7.62x39mmsovietcartridge(fmj)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsovietcartridge(ap)",
@@ -12160,13 +12160,13 @@
       "abr": "7.62x39mmsovietcartridge(ap-i)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsovietcartridge(ap-he)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsovietcartridge(sabot)",
@@ -12178,7 +12178,7 @@
       "abr": "7.62x51mmnatocartridge(fmj)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnatocartridge(ap)",
@@ -12196,13 +12196,13 @@
       "abr": "7.62x51mmnatocartridge(ap-i)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnatocartridge(ap-he)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnatocartridge(sabot)",
@@ -12214,13 +12214,13 @@
       "abr": "7.62x54mmrcartridge(fmj)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmrcartridge(ap)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmrcartridge(hp)",
@@ -12232,13 +12232,13 @@
       "abr": "7.62x54mmrcartridge(ap-i)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmrcartridge(ap-he)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmrcartridge(sabot)",
@@ -12256,31 +12256,31 @@
       "abr": "rpg-7grenade(heat)",
       "category": "RPG-7 grenades",
       "defname": "Ammo_RPG7Grenade_HEAT",
-      "price": -10
+      "price": 96
     },
     {
       "abr": "rpg-7grenade(thermobaric)",
       "category": "RPG-7 grenades",
       "defname": "Ammo_RPG7Grenade_Thermobaric",
-      "price": -10
+      "price": 206
     },
     {
       "abr": "rpg-7grenade(frag)",
       "category": "RPG-7 grenades",
       "defname": "Ammo_RPG7Grenade_Frag",
-      "price": -10
+      "price": 65
     },
     {
       "abr": "105mmhowitzershell(he)",
       "category": "105mm Howitzer shell",
       "defname": "Ammo_105mmHowitzerShell_HE",
-      "price": -10
+      "price": 240
     },
     {
       "abr": "105mmhowitzershell(incendiary)",
       "category": "105mm Howitzer shell",
       "defname": "Ammo_105mmHowitzerShell_Incendiary",
-      "price": -10
+      "price": 196
     },
     {
       "abr": "105mmhowitzershell(emp)",
@@ -12292,7 +12292,7 @@
       "abr": "105mmhowitzershell(smoke)",
       "category": "105mm Howitzer shell",
       "defname": "Ammo_105mmHowitzerShell_Smoke",
-      "price": -10
+      "price": 190
     },
     {
       "abr": "60mmmortarshell(he)",
@@ -12322,7 +12322,7 @@
       "abr": "60mmmortarshell(smoke)",
       "category": "60mm mortar shell",
       "defname": "Shell_60mmMortar_Smoke",
-      "price": 37
+      "price": -10
     },
     {
       "abr": "81mmmortarshell(toxic)",
@@ -12370,7 +12370,7 @@
       "abr": "12gaugeshell(bean)",
       "category": "12 gauge",
       "defname": "Ammo_12Gauge_Beanbag",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "12gaugeshell(emp)",
@@ -12394,7 +12394,7 @@
       "abr": "20gaugeshell(bean)",
       "category": "20 gauge",
       "defname": "Ammo_20Gauge_Beanbag",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "20gaugeshell(emp)",
@@ -12406,7 +12406,7 @@
       "abr": ".410boreshell(buck)",
       "category": ".410 Bore",
       "defname": "Ammo_410Bore_Buck",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "18mmtriuneshell(stun)",
@@ -12436,13 +12436,13 @@
       "abr": "81mmmortarshell(tar)",
       "category": "81mm mortar shell",
       "defname": "AB_Shell_Tar",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "81mmmortarshell(illumination)",
       "category": "81mm mortar shell",
       "defname": "Shell_Illumination",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "6.5x50mmsrarisakacartridge(flechette)",
@@ -12514,19 +12514,19 @@
       "abr": "40x90mmgrenadeoe(he)",
       "category": "40x90mm Grenade OE",
       "defname": "Ammo_40x90mmGrenadeOE_HE",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "40x90mmgrenadeoe(heat)",
       "category": "40x90mm Grenade OE",
       "defname": "Ammo_40x90mmGrenadeOE_HEAT",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "40x90mmgrenadeoe(emp)",
       "category": "40x90mm Grenade OE",
       "defname": "Ammo_40x90mmGrenadeOE_EMP",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "40x90mmgrenadeoe(smoke)",
@@ -12610,14 +12610,20 @@
       "abr": "26.5mmflare(illumination)",
       "category": "26.5mm Flare",
       "defname": "Ammo_265Flare_Illumination",
-      "price": -10
+      "price": 1
+    },
+    {
+      "abr": "ignitingstick",
+      "category": "Ranged weapons",
+      "defname": "Weapon_IgnitingStick",
+      "price": 9
     },
     {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
-  "total": 2103
+  "total": 2104
 }
