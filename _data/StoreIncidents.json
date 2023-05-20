@@ -86,7 +86,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
+		"abr": "rock",
 		"price": 150,
 		"karmatype": "Neutral"
 	},
@@ -146,16 +146,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -173,16 +163,6 @@
 	{
 		"abr": "predators",
 		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -346,5 +326,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 69
+	"total": 65
 }
