@@ -207,11 +207,11 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "rock": {
+  "meteor": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 60,
+    "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
