@@ -60,12 +60,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.2.7365"
-  },
-  {
     "author": "Aelanna",
     "name": "Fists Aren't Made of Steel",
     "steamId": null,
@@ -88,6 +82,12 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "3230046902",
+    "version": "1.5"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -1372,6 +1372,84 @@
     "name": "Enable Oversized Weapons",
     "steamId": "2543371889",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Addie",
+    "name": "House Van Illa",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RangelX97",
+    "name": "RX97 Medieval Airships: Hermes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gaon",
+    "name": "Medieval Tool Cabinet (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Vanilla Psycasts Expanded - Runesmith",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Snow Covers All",
+    "steamId": "3380299912",
+    "version": "1.5.2"
+  },
+  {
+    "author": "Scone",
+    "name": "Snow IS Beautiful!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Village Guy",
+    "name": "Primitive moisture pump",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daniel",
+    "name": "More Aging Control",
+    "steamId": "2886943990",
+    "version": "0.3.0"
+  },
+  {
+    "author": "JerryTheCultist",
+    "name": "Pioneer Rock",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rabiosus",
+    "name": "Automatic Parking",
+    "steamId": "3365473553",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sentinel",
+    "name": "Alarm Sound Replacer - Ah Sht Here We Go Again",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Sounds Like a Minecraft Villager",
+    "steamId": "3328716565",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
   },
   {
     "author": "nry",
