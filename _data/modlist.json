@@ -366,6 +366,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "SirVan",
+    "name": "Dark Ages : Medieval Tools",
+    "steamId": "3028566550",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
@@ -1374,12 +1380,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Addie",
-    "name": "House Van Illa",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "RangelX97",
     "name": "RX97 Medieval Airships: Hermes",
     "steamId": null,
@@ -1450,6 +1450,24 @@
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Vehicles - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arylice",
+    "name": "[ARY] Automatic Stump Chopping [1.5]",
+    "steamId": "3357749890",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",

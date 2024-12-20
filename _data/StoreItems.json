@@ -11300,55 +11300,55 @@
 	},
 	{
 		"abr": "roundshield",
-		"price": -10,
+		"price": 279,
 		"category": "Shields",
 		"defname": "DankPyon_Shield"
 	},
 	{
 		"abr": "kiteshield",
-		"price": -10,
+		"price": 285,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldKite"
 	},
 	{
 		"abr": "heatershield",
-		"price": -10,
+		"price": 224,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldHeater"
 	},
 	{
 		"abr": "heatershield(amboise)",
-		"price": -10,
+		"price": 224,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldHeater_Amboise"
 	},
 	{
 		"abr": "heatershield(soren)",
-		"price": -10,
+		"price": 224,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldHeater_Soren"
 	},
 	{
 		"abr": "heatershield(oswin)",
-		"price": -10,
+		"price": 224,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldHeater_Oswin"
 	},
 	{
 		"abr": "heatershield(hesse)",
-		"price": -10,
+		"price": 224,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldHeater_Hesse"
 	},
 	{
 		"abr": "livingtreeshield",
-		"price": -10,
+		"price": 2300,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldLiving"
 	},
 	{
 		"abr": "lindwurmshield",
-		"price": -10,
+		"price": 2242,
 		"category": "Shields",
 		"defname": "DankPyon_ShieldLindwurm"
 	},
@@ -13412,31 +13412,31 @@
 	},
 	{
 		"abr": "demigyryphshield",
-		"price": -10,
+		"price": 136,
 		"category": "Shields",
 		"defname": "pphhyy_Human_DemigyryphShield"
 	},
 	{
 		"abr": "demigyryphraidershield",
-		"price": -10,
+		"price": 231,
 		"category": "Shields",
 		"defname": "pphhyy_Human_DemigyryphRaiderShield"
 	},
 	{
 		"abr": "demigyryphgildedshield",
-		"price": -10,
+		"price": 467,
 		"category": "Shields",
 		"defname": "pphhyy_Human_DemigyryphGildedShield"
 	},
 	{
 		"abr": "demigyryphhuntershield",
-		"price": -10,
+		"price": 293,
 		"category": "Shields",
 		"defname": "pphhyy_Human_DemigyryphHunterShield"
 	},
 	{
 		"abr": "demigyryphchampionshield",
-		"price": -10,
+		"price": 215,
 		"category": "Shields",
 		"defname": "pphhyy_Human_DemigyryphChampionShield"
 	},
@@ -15368,7 +15368,7 @@
 	},
 	{
 		"abr": "meleeshield",
-		"price": -10,
+		"price": 257,
 		"category": "Shields",
 		"defname": "CE_Apparel_MeleeShield"
 	},
@@ -17960,7 +17960,7 @@
 	},
 	{
 		"abr": "ballista",
-		"price": 1117,
+		"price": -10,
 		"category": "Security",
 		"defname": "RK_Ballista_Strait_Body"
 	},
@@ -19334,55 +19334,55 @@
 	},
 	{
 		"abr": "barbarianmetalshield",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_MetalShield"
 	},
 	{
 		"abr": "barbarianmetalshieldii",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_MetalShieldII"
 	},
 	{
 		"abr": "barbarianmetalshieldiii",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_MetalShieldIII"
 	},
 	{
 		"abr": "barbarianroundshield",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_RoundShield"
 	},
 	{
 		"abr": "barbarianroundshieldii",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_RoundShieldII"
 	},
 	{
 		"abr": "barbarianroundshieldiii",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_RoundShieldIII"
 	},
 	{
 		"abr": "barbariantallshield",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_TallShield"
 	},
 	{
 		"abr": "barbariantallshieldii",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_TallShieldII"
 	},
 	{
 		"abr": "barbariantallshieldiii",
-		"price": -10,
+		"price": 167,
 		"category": "Shields",
 		"defname": "pphhyy_Barbarian_TallShieldIII"
 	},
@@ -23204,7 +23204,7 @@
 	},
 	{
 		"abr": "moosesian12-pdrgun",
-		"price": 633,
+		"price": -10,
 		"category": "Security",
 		"defname": "MS_ArtilleryCannonBase12pdr"
 	},
@@ -24128,7 +24128,7 @@
 	},
 	{
 		"abr": "profanedshield",
-		"price": -10,
+		"price": 567,
 		"category": "Shields",
 		"defname": "BotchJob_ProfanedShield"
 	},
@@ -24620,7 +24620,7 @@
 	},
 	{
 		"abr": "organgun",
-		"price": 658,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_OrganGun"
 	},
@@ -26576,7 +26576,7 @@
 	},
 	{
 		"abr": "moosesianmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Moosesian"
 	},
@@ -28519,126 +28519,6 @@
 		"defname": "RA_Candy"
 	},
 	{
-		"abr": "banner(vanilla)",
-		"price": 171,
-		"category": "Furniture",
-		"defname": "Addie_IllanBanner"
-	},
-	{
-		"abr": "crystalbrazier",
-		"price": 408,
-		"category": "Furniture",
-		"defname": "Addie_CrystalBrazier"
-	},
-	{
-		"abr": "frostpots",
-		"price": 475,
-		"category": "Grenades",
-		"defname": "Addie_Weapon_PotFrost"
-	},
-	{
-		"abr": "frostcream",
-		"price": 30,
-		"category": "Meals",
-		"defname": "Addie_MealFrostcream"
-	},
-	{
-		"abr": "illaneggnog",
-		"price": 38,
-		"category": "Drugs",
-		"defname": "Addie_Eggnog"
-	},
-	{
-		"abr": "illanrapier",
-		"price": 700,
-		"category": "Melee weapons",
-		"defname": "Addie_Illan_MeleeWeapon_IllanRapier"
-	},
-	{
-		"abr": "illansidesword",
-		"price": 350,
-		"category": "Melee weapons",
-		"defname": "Addie_Illan_MeleeWeapon_Sidesword"
-	},
-	{
-		"abr": "longsword(illan)",
-		"price": 500,
-		"category": "Melee weapons",
-		"defname": "Addie_Illan_MeleeWeapon_Longsword"
-	},
-	{
-		"abr": "lunarcygnus",
-		"price": 1250,
-		"category": "Animals",
-		"defname": "Addie_LunarCygnus"
-	},
-	{
-		"abr": "lunarcygnusegg(fert.)",
-		"price": 20,
-		"category": "Eggs (fert.)",
-		"defname": "Addie_EggLunarCygnusFertilized"
-	},
-	{
-		"abr": "lunarcygnusegg(unfert.)",
-		"price": 15,
-		"category": "Eggs (unfert.)",
-		"defname": "Addie_EggLunarCygnusUnfertilized"
-	},
-	{
-		"abr": "pike(illan)",
-		"price": 500,
-		"category": "Melee weapons",
-		"defname": "Addie_Illan_MeleeWeapon_PikeStandard"
-	},
-	{
-		"abr": "rimecrystal",
-		"price": 54,
-		"category": "Gemstones",
-		"defname": "Addie_Rimecrystal"
-	},
-	{
-		"abr": "rimecrystalbrazier",
-		"price": 758,
-		"category": "Furniture",
-		"defname": "Addie_RimecrystalBrazier"
-	},
-	{
-		"abr": "rimedcrossbow",
-		"price": 417,
-		"category": "Ranged weapons",
-		"defname": "Addie_RimedCrossbow"
-	},
-	{
-		"abr": "rimedlongsword",
-		"price": 608,
-		"category": "Melee weapons",
-		"defname": "Addie_Illan_MeleeWeapon_RimedLongsword"
-	},
-	{
-		"abr": "rimedrapier",
-		"price": 808,
-		"category": "Melee weapons",
-		"defname": "Addie_Illan_MeleeWeapon_RimedRapier"
-	},
-	{
-		"abr": "rimedsidesword",
-		"price": 450,
-		"category": "Melee weapons",
-		"defname": "Addie_Illan_MeleeWeapon_RimedSidesword"
-	},
-	{
-		"abr": "rimedstoneboulder",
-		"price": 33,
-		"category": "Trebuchet ammo",
-		"defname": "Addie_StoneBoulderRimed"
-	},
-	{
-		"abr": "rimedew",
-		"price": 20,
-		"category": "Animal products",
-		"defname": "Addie_Rimedew"
-	},
-	{
 		"abr": "runesmithbattleaxe",
 		"price": 2400,
 		"category": "Melee weapons",
@@ -28711,11 +28591,53 @@
 		"defname": "RA_TinSoldier"
 	},
 	{
-		"abr": "vermillionegg",
-		"price": 35,
-		"category": "Meals",
-		"defname": "Addie_MealVermillionEgg"
+		"abr": "warriorspirit",
+		"price": 83,
+		"category": "Animals",
+		"defname": "VPER_WarriorSpirit"
+	},
+	{
+		"abr": "ammopack",
+		"price": 176,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_AmmoPack"
+	},
+	{
+		"abr": "backpack",
+		"price": 181,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_Backpack"
+	},
+	{
+		"abr": "battlebanner",
+		"price": 93,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_BattleBanner"
+	},
+	{
+		"abr": "bonesaw",
+		"price": 139,
+		"category": "",
+		"defname": "DA_MeleeWeapon_Hacksaw"
+	},
+	{
+		"abr": "broom",
+		"price": 74,
+		"category": "",
+		"defname": "DA_MeleeWeapon_Broom"
+	},
+	{
+		"abr": "buildinghammer",
+		"price": 274,
+		"category": "",
+		"defname": "DA_MeleeWeapon_Hammer"
+	},
+	{
+		"abr": "butcheringtools",
+		"price": 800,
+		"category": "Misc",
+		"defname": "DA_ButcheringTools"
 	},
 	],
-	"total": 4787
+	"total": 4792
 }
