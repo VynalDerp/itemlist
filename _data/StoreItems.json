@@ -20456,7 +20456,7 @@
 	},
 	{
 		"abr": "compsognathus",
-		"price": -10,
+		"price": 417,
 		"category": "Animals",
 		"defname": "BMT_Compsognathus"
 	},
@@ -23354,7 +23354,7 @@
 	},
 	{
 		"abr": "rakali",
-		"price": -10,
+		"price": 333,
 		"category": "Ranged weapons",
 		"defname": "WFF_Rakali"
 	},
@@ -23600,7 +23600,7 @@
 	},
 	{
 		"abr": "10ozrakaliball",
-		"price": -10,
+		"price": 2,
 		"category": "10 oz Rakali ball",
 		"defname": "Ammo_RakaliBall"
 	},
@@ -28615,29 +28615,299 @@
 		"defname": "VAEA_Apparel_BattleBanner"
 	},
 	{
-		"abr": "bonesaw",
-		"price": 139,
-		"category": "",
-		"defname": "DA_MeleeWeapon_Hacksaw"
-	},
-	{
-		"abr": "broom",
-		"price": 74,
-		"category": "",
-		"defname": "DA_MeleeWeapon_Broom"
-	},
-	{
-		"abr": "buildinghammer",
-		"price": 274,
-		"category": "",
-		"defname": "DA_MeleeWeapon_Hammer"
-	},
-	{
 		"abr": "butcheringtools",
 		"price": 800,
 		"category": "Misc",
 		"defname": "DA_ButcheringTools"
 	},
+	{
+		"abr": "chariotmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AV_Chariot"
+	},
+	{
+		"abr": "coveredcarriagemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AV_CoveredCarriage"
+	},
+	{
+		"abr": "dogsledmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AV_DogSled"
+	},
+	{
+		"abr": "explosivebelt",
+		"price": 113,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ExplosiveBelt"
+	},
+	{
+		"abr": "hwacharocketarrow",
+		"price": 2,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_ExplosiveArrow"
+	},
+	{
+		"abr": "medicbag",
+		"price": 132,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_MedicBag"
+	},
+	{
+		"abr": "medievalcrane",
+		"price": 1000,
+		"category": "Misc",
+		"defname": "DA_MedievalCrane"
+	},
+	{
+		"abr": "mini-turretpack",
+		"price": 194,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_MiniTurretPack"
+	},
+	{
+		"abr": "mixingbarrel",
+		"price": 327,
+		"category": "Misc",
+		"defname": "DA_MixingBarrel"
+	},
+	{
+		"abr": "oxcartmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AV_OxCart"
+	},
+	{
+		"abr": "quiver",
+		"price": 14,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_Quiver"
+	},
+	{
+		"abr": "rangedshieldbelt",
+		"price": 650,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_RangedShieldBelt"
+	},
+	{
+		"abr": "ressurectorbelt",
+		"price": 2833,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_RessurectorBelt"
+	},
+	{
+		"abr": "stonecuttingtools",
+		"price": 800,
+		"category": "Misc",
+		"defname": "DA_StonecuttingTools"
+	},
+	{
+		"abr": "tailoringtools",
+		"price": 800,
+		"category": "Misc",
+		"defname": "DA_TailoringTools"
+	},
+	{
+		"abr": "toolbelt",
+		"price": 166,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ToolBelt"
+	},
+	{
+		"abr": "warchariotmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AV_WarChariot"
+	},
+	{
+		"abr": "40x68mmchargecell(demolition)",
+		"price": 8,
+		"category": "30x64mm Fuel Cell",
+		"defname": "Ammo_40x68mmDemo_Thump"
+	},
+	{
+		"abr": "absolverarmor",
+		"price": 5333,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorAbsolver"
+	},
+	{
+		"abr": "absolverhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_AbsolverHelmet"
+	},
+	{
+		"abr": "absolver'scrossbow",
+		"price": 2783,
+		"category": "Ranged weapons",
+		"defname": "EEG_AbsolverCrossbow"
+	},
+	{
+		"abr": "aperitif",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "VFEE_Aperitif"
+	},
+	{
+		"abr": "candelabra",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "VFEE_Candelabra"
+	},
+	{
+		"abr": "chargethumper",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFEE_Gun_ChargeThumper"
+	},
+	{
+		"abr": "deserterarmor",
+		"price": 6883,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorDeserter"
+	},
+	{
+		"abr": "deserterhelmet",
+		"price": 1267,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_DeserterHelmet"
+	},
+	{
+		"abr": "fletcher",
+		"price": 4583,
+		"category": "Ranged weapons",
+		"defname": "VEE_Gun_Fletcher"
+	},
+	{
+		"abr": "fletchercartridge",
+		"price": 11,
+		"category": "12x64mm Charged",
+		"defname": "Ammo_FletcherDart"
+	},
+	{
+		"abr": "grandchair",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "VFEE_GrandChair"
+	},
+	{
+		"abr": "grandimperialsculpture",
+		"price": 1967,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureGrand"
+	},
+	{
+		"abr": "grandroyalrug",
+		"price": 525,
+		"category": "Furniture",
+		"defname": "VFEE_GrandRoyalRug"
+	},
+	{
+		"abr": "grandtable",
+		"price": 1133,
+		"category": "Furniture",
+		"defname": "VFEE_GrandTable"
+	},
+	{
+		"abr": "imperialbanner",
+		"price": 306,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialBanner"
+	},
+	{
+		"abr": "imperialslab",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialSlab"
+	},
+	{
+		"abr": "janissarycuirass",
+		"price": 2567,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_JanissaryCuirass"
+	},
+	{
+		"abr": "janissaryhelmet",
+		"price": 1075,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_JanissaryHelmet"
+	},
+	{
+		"abr": "largeimperialsculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureLarge"
+	},
+	{
+		"abr": "largeroyalrug",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_LargeRoyalRug"
+	},
+	{
+		"abr": "organ",
+		"price": 2167,
+		"category": "Recreation",
+		"defname": "VFEE_PipeOrgan"
+	},
+	{
+		"abr": "personatoxblade",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "VFEE_MeleeWeapon_ToxbladeBladelink"
+	},
+	{
+		"abr": "royalmirror",
+		"price": 230,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalMirror"
+	},
+	{
+		"abr": "royalstool",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalStool"
+	},
+	{
+		"abr": "simplethrone",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "EEG_SimpleThrone"
+	},
+	{
+		"abr": "smallimperialsculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureSmall"
+	},
+	{
+		"abr": "stellicmeditationthrone",
+		"price": 5542,
+		"category": "Furniture",
+		"defname": "VFEE_StellicThrone"
+	},
+	{
+		"abr": "stellicrobe",
+		"price": 583,
+		"category": "Noble apparel",
+		"defname": "VFE_Apparel_StellicRobe"
+	},
+	{
+		"abr": "techfriarcrown",
+		"price": 67,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_TechfriarCrown"
+	},
+	{
+		"abr": "toxblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "VFEE_MeleeWeapon_Toxblade"
+	}
 	],
-	"total": 4792
+	"total": 4818
 }
