@@ -99,26 +99,26 @@ what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
 The best gear varies from playthrough to playthrough, but the current best gear set is:
 
-Format: Layer | Coverage - itemname[materialtype,quality]
+Format: Layer \ Coverage - itemname[materialtype,quality]
 
 Copy only the item name and material,quality in brackets. No spaces.
 
 - Outer (Head) - bearheaddress[griffonleather,legendary]
-- Outer |Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary]
-- Middle | Torso/legs - barbariantribaloutfit[griffonleather,legendary]
-- Webbing | Torso - heavybandolier (any)
-- On top | Torso/arms - strawcloak[legendary]
-- Backpack | Shoulder - snapsack[legendary] (any)
-- Utility | Shoulder - guiver[legendary] (any)
-- Middle | Hands - gloves[griffonleather,legendary]
-- Outer | Hands/arms - tallgloves[griffonleather,legendary]
-- Utility | Utility Slot - anything
-- Ring | Middle Finger - ringoftending OR ringofstunimmunity OR ringofhaste (any)
-- Leg Outer | Legs - paddedchausses[griffonleather,legendary]
-- Middle | Feet - boots[griffonleather,legendary]
-- Outer | Legs/feet - tallboots[griffonleather,legendary]
-- Skin | Torso/arms - gambeson[bluecatlily,legendary]
-- Attachment | Torso/shoulder - additionalfurpadding (any)
+- Outer \ Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary]
+- Middle \ Torso/legs - barbariantribaloutfit[griffonleather,legendary]
+- Webbing \ Torso - heavybandolier (any)
+- On top \ Torso/arms - strawcloak[legendary]
+- Backpack \ Shoulder - snapsack[legendary] (any)
+- Utility \ Shoulder - guiver[legendary] (any)
+- Middle \ Hands - gloves[griffonleather,legendary]
+- Outer \ Hands/arms - tallgloves[griffonleather,legendary]
+- Utility \ Utility Slot - anything
+- Ring \ Middle Finger - ringoftending OR ringofstunimmunity OR ringofhaste (any)
+- Leg Outer \ Legs - paddedchausses[griffonleather,legendary]
+- Middle \ Feet - boots[griffonleather,legendary]
+- Outer \ Legs/feet - tallboots[griffonleather,legendary]
+- Skin \ Torso/arms - gambeson[bluecatlily,legendary]
+- Attachment \ Torso/shoulder - additionalfurpadding (any)
 
 ## What are the best materials?
 Best materials also change from playthrough to playthrough. Currently, the best materials are, in this order:
