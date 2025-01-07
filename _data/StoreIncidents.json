@@ -198,27 +198,7 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "infestation",
@@ -377,7 +357,7 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 3000,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -396,5 +376,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 75
 }

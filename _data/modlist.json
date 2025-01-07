@@ -252,6 +252,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
@@ -1029,13 +1035,13 @@
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   {
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.26"
+    "version": "1.5.28"
   },
   {
     "author": "Feng Xinzi",
@@ -1470,10 +1476,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
+    "author": "dhultgren",
+    "name": "Bury On The Spot",
+    "steamId": "2180356108",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti",
+    "name": "Medieval Adventures: Hunts",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",

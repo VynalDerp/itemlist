@@ -890,7 +890,7 @@
 	},
 	{
 		"abr": "hay",
-		"price": 1,
+		"price": -10,
 		"category": "Foods",
 		"defname": "Hay"
 	},
@@ -10100,37 +10100,37 @@
 	},
 	{
 		"abr": "citrine",
-		"price": -10,
+		"price": 7,
 		"category": "Gemstones",
 		"defname": "DankPyon_Citrine"
 	},
 	{
 		"abr": "amber",
-		"price": -10,
+		"price": 10,
 		"category": "Gemstones",
 		"defname": "DankPyon_Amber"
 	},
 	{
 		"abr": "onyx",
-		"price": -10,
+		"price": 12,
 		"category": "Gemstones",
 		"defname": "DankPyon_Onyx"
 	},
 	{
 		"abr": "emerald",
-		"price": -10,
+		"price": 17,
 		"category": "Gemstones",
 		"defname": "DankPyon_Emerald"
 	},
 	{
 		"abr": "sapphire",
-		"price": -10,
+		"price": 22,
 		"category": "Gemstones",
 		"defname": "DankPyon_Sapphire"
 	},
 	{
 		"abr": "ruby",
-		"price": -10,
+		"price": 28,
 		"category": "Gemstones",
 		"defname": "DankPyon_Ruby"
 	},
@@ -10796,85 +10796,85 @@
 	},
 	{
 		"abr": "citrinenecklace",
-		"price": -10,
+		"price": 228,
 		"category": "Jewelry",
 		"defname": "DankPyon_Necklace_Citrine"
 	},
 	{
 		"abr": "jadenecklace",
-		"price": -10,
+		"price": 267,
 		"category": "Jewelry",
 		"defname": "DankPyon_Necklace_Jade"
 	},
 	{
 		"abr": "ambernecklace",
-		"price": -10,
+		"price": 301,
 		"category": "Jewelry",
 		"defname": "DankPyon_Necklace_Amber"
 	},
 	{
 		"abr": "onyxnecklace",
-		"price": -10,
+		"price": 367,
 		"category": "Jewelry",
 		"defname": "DankPyon_Necklace_Onyx"
 	},
 	{
 		"abr": "emeraldnecklace",
-		"price": -10,
+		"price": 517,
 		"category": "Jewelry",
 		"defname": "DankPyon_Necklace_Emerald"
 	},
 	{
 		"abr": "sapphirenecklace",
-		"price": -10,
+		"price": 658,
 		"category": "Jewelry",
 		"defname": "DankPyon_Necklace_Sapphire"
 	},
 	{
 		"abr": "rubynecklace",
-		"price": -10,
+		"price": 808,
 		"category": "Jewelry",
 		"defname": "DankPyon_Necklace_Ruby"
 	},
 	{
 		"abr": "citrinering",
-		"price": -10,
+		"price": 228,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Citrine"
 	},
 	{
 		"abr": "jadering",
-		"price": -10,
+		"price": 267,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Jade"
 	},
 	{
 		"abr": "amberring",
-		"price": -10,
+		"price": 301,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Amber"
 	},
 	{
 		"abr": "onyxring",
-		"price": -10,
+		"price": 367,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Onyx"
 	},
 	{
 		"abr": "emeraldring",
-		"price": -10,
+		"price": 517,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Emerald"
 	},
 	{
 		"abr": "sapphirering",
-		"price": -10,
+		"price": 658,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Sapphire"
 	},
 	{
 		"abr": "rubyring",
-		"price": -10,
+		"price": 808,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Ruby"
 	},
@@ -10916,31 +10916,31 @@
 	},
 	{
 		"abr": "ringofholding",
-		"price": -10,
+		"price": 917,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Holding"
 	},
 	{
 		"abr": "ringofhaste",
-		"price": -10,
+		"price": 917,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Haste"
 	},
 	{
 		"abr": "ringoftending",
-		"price": -10,
+		"price": 1250,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Tending"
 	},
 	{
 		"abr": "ringofresearch",
-		"price": -10,
+		"price": 1867,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_Research"
 	},
 	{
 		"abr": "ringofstunimmunity",
-		"price": -10,
+		"price": 1867,
 		"category": "Jewelry",
 		"defname": "DankPyon_Ring_StunImmunity"
 	},
@@ -21848,7 +21848,7 @@
 	},
 	{
 		"abr": "ballisticgoggles",
-		"price": 122,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "CE_Armor_BallisticGoggles"
 	},
@@ -23522,7 +23522,7 @@
 	},
 	{
 		"abr": "12ozdieselball",
-		"price": -10,
+		"price": 3,
 		"category": "12 oz Diesel ball",
 		"defname": "Ammo_Dieselwork_Round"
 	},
@@ -23540,7 +23540,7 @@
 	},
 	{
 		"abr": ".502firehornshot",
-		"price": -10,
+		"price": 5,
 		"category": ".502 Firehorn shot",
 		"defname": "Ammo_FirehornShot"
 	},
@@ -28592,7 +28592,7 @@
 	},
 	{
 		"abr": "warriorspirit",
-		"price": 83,
+		"price": -10,
 		"category": "Animals",
 		"defname": "VPER_WarriorSpirit"
 	},
@@ -28907,7 +28907,115 @@
 		"price": 3000,
 		"category": "Melee weapons",
 		"defname": "VFEE_MeleeWeapon_Toxblade"
+	},
+	{
+		"abr": "fishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "BMT_FishMeatCore"
+	},
+	{
+		"abr": "fishskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "BMT_Fishskin"
+	},
+	{
+		"abr": "fragilechitin",
+		"price": 2,
+		"category": "Leathers",
+		"defname": "BMT_FragileChitin"
+	},
+	{
+		"abr": "guardshako",
+		"price": 264,
+		"category": "Moosesian headgear",
+		"defname": "WFF_GuardShako"
+	},
+	{
+		"abr": "hermeticarmor",
+		"price": 4783,
+		"category": "Armor",
+		"defname": "BMT_HermeticArmor"
+	},
+	{
+		"abr": "hermetichelmet",
+		"price": 1658,
+		"category": "Headgear",
+		"defname": "BMT_HermeticHelmet"
+	},
+	{
+		"abr": "pinnipedskin",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "BMT_Pinnipedskin"
+	},
+	{
+		"abr": "bloodyletter(alp)",
+		"price": 1667,
+		"category": "Loot",
+		"defname": "Seti_loot_letteralp"
+	},
+	{
+		"abr": "bloodyletter(daer)",
+		"price": 417,
+		"category": "Loot",
+		"defname": "Seti_loot_letterdaer"
+	},
+	{
+		"abr": "bloodyletter(ghoul)",
+		"price": 4167,
+		"category": "Loot",
+		"defname": "Seti_loot_letterghoul"
+	},
+	{
+		"abr": "bloodyletter(griffon)",
+		"price": 417,
+		"category": "Loot",
+		"defname": "Seti_loot_lettergriffon"
+	},
+	{
+		"abr": "bloodyletter(lindwurm)",
+		"price": 2500,
+		"category": "Loot",
+		"defname": "Seti_loot_lettervenomed"
+	},
+	{
+		"abr": "bloodyletter(schrat)",
+		"price": 4167,
+		"category": "Loot",
+		"defname": "Seti_loot_letterschrat"
+	},
+	{
+		"abr": "bloodyletter(troll)",
+		"price": 8333,
+		"category": "Loot",
+		"defname": "Seti_loot_lettertroll"
+	},
+	{
+		"abr": "bloodyletter(unhold)",
+		"price": 5000,
+		"category": "Loot",
+		"defname": "Seti_loot_letterunhold"
+	},
+	{
+		"abr": "bloodyletter(webknecht)",
+		"price": 833,
+		"category": "Loot",
+		"defname": "Seti_loot_letterwebbed"
+	},
+	{
+		"abr": "bloodyletter(wolf)",
+		"price": 417,
+		"category": "Loot",
+		"defname": "Seti_loot_letterwolf"
+	},
+	{
+		"abr": "decorativetusks",
+		"price": 52,
+		"category": "Misc",
+		"defname": "setidecortusk"
 	}
 	],
-	"total": 4818
+	"total": 4836
 }
