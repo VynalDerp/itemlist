@@ -91,6 +91,57 @@ are the `!mypawn` commands, which allow you see various information about your p
 every command here, but most commands should generally be self-descriptive or have a description of
 what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
+<br/>
+
+## FAQ
+
+# What is the best gear?
+The best gear varies from playthrough to playthrough, but the current best gear set is:
+
+Format: itemname[materialtype,quality]
+Copy only the formatting, no spaces.
+
+Outer (Head) - bearheaddress[griffonleather,legendary]
+Outer Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary]
+Middle Torso/legs - barbariantribaloutfit[griffonleather,legendary]
+Webbing torso - heavybandolier (any)
+On top Torso/arms - strawcloak[legendary]
+Backpack Shoulder - snapsack[legendary] (any)
+Utility Shoulder - guiver[legendary] (any)
+Middle Hands - gloves[griffonleather,legendary]
+Outer Hands/arms - tallgloves[griffonleather,legendary]
+Utility Utility Slot - anything
+Ring Middle Finger - ringoftending OR ringofstunimmunity OR ringofhaste (any)
+Leg Outer Legs - paddedchausses[griffonleather,legendary]
+Middle Feet - boots[griffonleather,legendary]
+Outer Legs/feet - tallboots[griffonleather,legendary]
+Skin Torso/arms - gambeson[bluecatlily,legendary]
+Attachment Torso/shoulder - additionalfurpadding
+
+# What are the best materials?
+Best materials also change from playthrough to playthrough. Currently, the best materials are, in this order:
+
+Leathers:
+Griffon Leather
+Belloceros Leather
+Grimshadow Scales
+Armored Dinosaur Hide
+Gallatross Leather
+Troll Leather(S)/Thrumbo Fur(B)
+Heavy Dinosaur Hide
+Primordial Chitin
+Behemoth Scales
+Deep Chitin
+Iron Chitin/Hardened Chitin
+Royal Chitin
+Daer Leather
+Lindwurm Scales
+
+Wools:
+
+Cloths:
+Blue Cat Lily
+Hyperweave
 
 {%- if puppeteer -%}
 <br/>
