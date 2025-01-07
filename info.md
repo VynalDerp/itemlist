@@ -101,7 +101,7 @@ The best gear varies from playthrough to playthrough, but the current best gear 
 
 Format: Layer \ Coverage - itemname[materialtype,quality]
 
-Copy only the item name and material,quality in brackets. No spaces.
+ONLY COPY itemane[materialtype,quality]. No spaces.
 
 - Outer (Head) - bearheaddress[griffonleather,legendary]
 - Outer \ Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary]
