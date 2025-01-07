@@ -118,6 +118,7 @@ Copy only the item name and material,quality in brackets. No spaces.
 - Middle \ Feet - boots[griffonleather,legendary]
 - Outer \ Legs/feet - tallboots[griffonleather,legendary]
 - Skin \ Torso/arms - gambeson[bluecatlily,legendary]
+- Skin \ Legs - hose[griffonleather,legendary]
 - Attachment \ Torso/shoulder - additionalfurpadding (any)
 
 ## What are the best materials?
