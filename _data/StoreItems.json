@@ -28045,12 +28045,6 @@
 		"defname": "M_MechaWinged"
 	},
 	{
-		"abr": "mechawithmech",
-		"price": -10,
-		"category": "Animal",
-		"defname": "M_MechaMecha"
-	},
-	{
 		"abr": "ballisticglass",
 		"price": 17,
 		"category": "Manufactured",
@@ -28526,61 +28520,61 @@
 	},
 	{
 		"abr": "spelltome(etchgreaterrunecircle)",
-		"price": 3333,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Etch_Runecircle_Greater"
 	},
 	{
 		"abr": "spelltome(etchrunecircle)",
-		"price": 1333,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Etch_Runecircle"
 	},
 	{
 		"abr": "spelltome(invoke:algiz)",
-		"price": 2333,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Defense"
 	},
 	{
 		"abr": "spelltome(invoke:berkana)",
-		"price": 3333,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Heal"
 	},
 	{
 		"abr": "spelltome(invoke:ehwaz)",
-		"price": 1833,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Speed"
 	},
 	{
 		"abr": "spelltome(invoke:hagalaz)",
-		"price": 1833,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Stun"
 	},
 	{
 		"abr": "spelltome(invoke:isa)",
-		"price": 2333,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Turret"
 	},
 	{
 		"abr": "spelltome(invoke:mannaz)",
-		"price": 3333,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Summon"
 	},
 	{
 		"abr": "spelltome(invoke:sowilo)",
-		"price": 2833,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Explosion"
 	},
 	{
 		"abr": "spelltome(invoke:teiwaz)",
-		"price": 2833,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPER_Invoke_Wrath"
 	},
@@ -28856,7 +28850,7 @@
 	},
 	{
 		"abr": "personatoxblade",
-		"price": 3333,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "VFEE_MeleeWeapon_ToxbladeBladelink"
 	},
@@ -28904,7 +28898,7 @@
 	},
 	{
 		"abr": "toxblade",
-		"price": 3000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VFEE_MeleeWeapon_Toxblade"
 	},
@@ -29017,5 +29011,5 @@
 		"defname": "setidecortusk"
 	}
 	],
-	"total": 4836
+	"total": 4835
 }
