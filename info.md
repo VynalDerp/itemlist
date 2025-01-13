@@ -104,7 +104,7 @@ Format: Layer \ Coverage - itemname[materialtype,quality]
 ONLY COPY itemane[materialtype,quality]. No spaces.
 
 - Outer (Head) - bearheaddress[griffonleather,legendary]
-- Outer \ Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary]
+- Outer \ Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary] OR lightlamellar[griffonleather,legendary]
 - Middle \ Torso/legs - barbariantribaloutfit[griffonleather,legendary]
 - Webbing \ Torso - heavybandolier (any)
 - On top \ Torso/arms - strawcloak[legendary]
