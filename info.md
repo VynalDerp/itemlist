@@ -109,7 +109,7 @@ ONLY COPY itemane[materialtype,quality]. No spaces.
 - Webbing \ Torso - heavybandolier (any)
 - On top \ Torso/arms - strawcloak[legendary]
 - Backpack \ Shoulder - snapsack[legendary] (any)
-- Utility \ Shoulder - guiver[legendary] (any)
+- Utility \ Shoulder - quiver[legendary] (any)
 - Middle \ Hands - gloves[griffonleather,legendary]
 - Outer \ Hands/arms - tallgloves[griffonleather,legendary]
 - Utility \ Utility Slot - anything
