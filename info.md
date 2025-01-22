@@ -106,21 +106,24 @@ ONLY COPY itemane[materialtype,quality]. No spaces.
 - Outer (Head) - bearheaddress[griffonleather,legendary]
 - Outer \ Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary] OR lightlamellar[griffonleather,legendary]
 - Middle \ Torso/legs - barbariantribaloutfit[griffonleather,legendary]
-- Webbing \ Torso - heavybandolier (any)
+- Webbing \ Torso - heavybandolier ***
 - On top \ Torso/arms - strawcloak[legendary]
-- Backpack \ Shoulder - snapsack[legendary] (any)
-- Utility \ Shoulder - quiver[legendary] (any)
+- Backpack \ Shoulder - snapsack[legendary] *
+- Utility \ Shoulder - quiver[legendary] *
 - Middle \ Hands - gloves[griffonleather,legendary]
 - Outer \ Hands/arms - tallgloves[griffonleather,legendary]
 - Utility \ Utility Slot - anything
-- Ring \ Middle Finger - ringoftending OR ringofstunimmunity OR ringofhaste (any)
+- Ring \ Middle Finger - ringoftending OR ringofstunimmunity OR ringofhaste ***
 - Leg Outer \ Legs - paddedchausses[griffonleather,legendary]
 - Middle \ Feet - boots[griffonleather,legendary]
 - Outer \ Legs/feet - tallboots[griffonleather,legendary]
 - Skin \ Torso/arms - gambeson[bluecatlily,legendary]
 - Skin \ Legs - hose[griffonleather,legendary]
-- Attachment \ Torso/shoulder - additionalfurpadding (any)
+- Attachment \ Torso/shoulder - additionalfurpadding ***
 
+  * Material doesn't matter
+  ** Quality doesn't matter
+  *** Matieral and quality doesn't matter
 ## What are the best materials?
 Best materials also change from playthrough to playthrough. Currently, the best materials are, in this order:
 
