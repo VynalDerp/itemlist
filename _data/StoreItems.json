@@ -890,7 +890,7 @@
 	},
 	{
 		"abr": "hay",
-		"price": -10,
+		"price": 1,
 		"category": "Foods",
 		"defname": "Hay"
 	},
@@ -3134,7 +3134,7 @@
 	},
 	{
 		"abr": "bioferrite",
-		"price": 1,
+		"price": 15,
 		"category": "Metallics",
 		"defname": "Bioferrite"
 	},
@@ -7268,7 +7268,7 @@
 	},
 	{
 		"abr": "ancientschematic",
-		"price": 833,
+		"price": -10,
 		"category": "Books",
 		"defname": "DankPyon_Schematic"
 	},
@@ -8426,7 +8426,7 @@
 	},
 	{
 		"abr": "explorer'sarchive",
-		"price": -10,
+		"price": 667,
 		"category": "Furniture",
 		"defname": "DankPyon_CultShelf"
 	},
@@ -10059,7 +10059,7 @@
 	{
 		"abr": "smokeyhoney",
 		"price": -10,
-		"category": "Animal products",
+		"category": "Honey",
 		"defname": "DankPyon_Honey"
 	},
 	{
@@ -14539,42 +14539,6 @@
 		"defname": "Ammo_277Fury_Sabot"
 	},
 	{
-		"abr": ".280british(fmj)",
-		"price": -10,
-		"category": ".280 British",
-		"defname": "Ammo_280British_FMJ"
-	},
-	{
-		"abr": ".280british(ap)",
-		"price": -10,
-		"category": ".280 British",
-		"defname": "Ammo_280British_AP"
-	},
-	{
-		"abr": ".280british(hp)",
-		"price": -10,
-		"category": ".280 British",
-		"defname": "Ammo_280British_HP"
-	},
-	{
-		"abr": ".280british(ap-i)",
-		"price": -10,
-		"category": ".280 British",
-		"defname": "Ammo_280British_Incendiary"
-	},
-	{
-		"abr": ".280british(ap-he)",
-		"price": -10,
-		"category": ".280 British",
-		"defname": "Ammo_280British_HE"
-	},
-	{
-		"abr": ".280british(sabot)",
-		"price": -10,
-		"category": ".280 British",
-		"defname": "Ammo_280British_Sabot"
-	},
-	{
 		"abr": ".30-06springfield(fmj)",
 		"price": -10,
 		"category": ".30-06 Springfield",
@@ -16703,12 +16667,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "BS_GeneGeneIntegrator"
-	},
-	{
-		"abr": "xeno-germlinemirroring",
-		"price": -10,
-		"category": "Misc",
-		"defname": "BS_XenoCopy"
 	},
 	{
 		"abr": "xenogermcloner",
@@ -19039,12 +18997,6 @@
 		"defname": "Mewn_Sign_Quarry"
 	},
 	{
-		"abr": "airshipschematics",
-		"price": 4167,
-		"category": "Books",
-		"defname": "DankPyon_Book_GYK_MVA_Airship"
-	},
-	{
 		"abr": "leathercoat",
 		"price": 467,
 		"category": "Armor",
@@ -20240,7 +20192,7 @@
 	},
 	{
 		"abr": "aboomasaurus",
-		"price": 3417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "BMT_Aboomasaurus"
 	},
@@ -20336,7 +20288,7 @@
 	},
 	{
 		"abr": "boomasaurolophus",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "BMT_Boomasaur"
 	},
@@ -23210,7 +23162,7 @@
 	},
 	{
 		"abr": "moosesianboxartillery",
-		"price": 775,
+		"price": -10,
 		"category": "Security",
 		"defname": "MS_VolleyCannonBase"
 	},
@@ -29009,7 +28961,163 @@
 		"price": 52,
 		"category": "Misc",
 		"defname": "setidecortusk"
+	},
+	{
+		"abr": "militarybladeschematics",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "DankPyon_Schematic_GYK_MVA_Airship"
+	},
+	{
+		"abr": ".22hornet(ap)",
+		"price": -10,
+		"category": ".22 Hornet",
+		"defname": "Ammo_22Hornet_AP"
+	},
+	{
+		"abr": ".22hornet(fmj)",
+		"price": -10,
+		"category": ".22 Hornet",
+		"defname": "Ammo_22Hornet_FMJ"
+	},
+	{
+		"abr": ".22hornet(hp)",
+		"price": -10,
+		"category": ".22 Hornet",
+		"defname": "Ammo_22Hornet_HP"
+	},
+	{
+		"abr": "barbarianarmor",
+		"price": 767,
+		"category": "Armor",
+		"defname": "BS_BarbarianArmor"
+	},
+	{
+		"abr": "disembodiedhead",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_JustAHead"
+	},
+	{
+		"abr": "giantbow",
+		"price": 492,
+		"category": "Ranged weapons",
+		"defname": "BS_GiantPrimitiveBow"
+	},
+	{
+		"abr": "grandicesculpture",
+		"price": 1142,
+		"category": "Art",
+		"defname": "DankPyon_SculptureGrand_Ice"
+	},
+	{
+		"abr": "heavycrossbow",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "VFEM_Bow_HeavyCrossbow"
+	},
+	{
+		"abr": "largeicesculpture",
+		"price": 558,
+		"category": "Art",
+		"defname": "DankPyon_SculptureLarge_Ice"
+	},
+	{
+		"abr": "lindwurmscalearmor",
+		"price": 7025,
+		"category": "Apparel",
+		"defname": "DankPyon_Apparel_Lindwurm"
+	},
+	{
+		"abr": "lindwurmscalehelmet",
+		"price": 5633,
+		"category": "Headgear",
+		"defname": "DankPyon_Headgear_Lindwurm"
+	},
+	{
+		"abr": "potionofknowledgemixture",
+		"price": 2442,
+		"category": "Manufactured",
+		"defname": "DankPyon_Mixture_Knowledge"
+	},
+	{
+		"abr": "ratkincrossbowbolts(void)",
+		"price": 1,
+		"category": "Ratkin Void Crossbow Bolt",
+		"defname": "Ammo_RatkinBolt_Bioferrite"
+	},
+	{
+		"abr": "ratkinmusketball(void)",
+		"price": 1,
+		"category": "Ratkin Void Musket Ball",
+		"defname": "Ammo_RAMusketball_Bioferrite"
+	},
+	{
+		"abr": "smallicesculpture",
+		"price": 367,
+		"category": "Art",
+		"defname": "DankPyon_SculptureSmall_Ice"
+	},
+	{
+		"abr": "ancestralofferings",
+		"price": 500,
+		"category": "Misc",
+		"defname": "Mousekin_IdeoFlowerDanceOfferings"
+	},
+	{
+		"abr": "barbecuetable",
+		"price": 383,
+		"category": "Misc",
+		"defname": "Mousekin_IdeoBarbecueTable"
+	},
+	{
+		"abr": "greatpine",
+		"price": 4,
+		"category": "Misc",
+		"defname": "Mousekin_IdeoXmasTree"
+	},
+	{
+		"abr": "mousekinaltar",
+		"price": 525,
+		"category": "Furniture",
+		"defname": "Mousekin_ChurchAltar"
+	},
+	{
+		"abr": "mousekinlectern",
+		"price": 61,
+		"category": "Furniture",
+		"defname": "Mousekin_ChurchLectern"
+	},
+	{
+		"abr": "mousekinpew",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Mousekin_ChurchPew"
+	},
+	{
+		"abr": "mousekintreatise",
+		"price": 267,
+		"category": "Books",
+		"defname": "Mousekin_BookResearch"
+	},
+	{
+		"abr": "mousie-go-home",
+		"price": 79,
+		"category": "Furniture",
+		"defname": "Mousekin_JoyTabletopGame"
+	},
+	{
+		"abr": "cloak",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "HS_Edo_Cloak"
+	},
+	{
+		"abr": "fukiya",
+		"price": 100,
+		"category": "Ranged weapons",
+		"defname": "Edo_AW_Fukiya"
 	}
 	],
-	"total": 4835
+	"total": 4853
 }
