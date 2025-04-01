@@ -95,6 +95,8 @@ what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
 # FAQ
 
+# OUT OF DATE
+
 ## What is the best gear?
 
 The best gear varies from playthrough to playthrough, but the current best gear set is:
