@@ -95,9 +95,8 @@ what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
 # FAQ
 
-# OUT OF DATE
-
 ## What is the best gear?
+## OUT OF DATE
 
 The best gear varies from playthrough to playthrough, but the current best gear set is:
 
@@ -127,29 +126,22 @@ ONLY COPY itemane[materialtype,quality]. No spaces.
   ** Quality doesn't matter
   *** Matieral and quality doesn't matter
 ## What are the best materials?
+## UP TO DATE
 Best materials also change from playthrough to playthrough. Currently, the best materials are, in this order:
 
-Leathers:
-- Griffon Leather
-- Belloceros Leather
-- Grimshadow Scales
-- Armored Dinosaur Hide
-- Gallatross Leather
-- Troll Leather(S)/Thrumbo Fur(B)
-- Heavy Dinosaur Hide
-- Primordial Chitin
-- Behemoth Scales
-- Deep Chitin
-- Iron Chitin/Hardened Chitin
-- Royal Chitin
-- Daer Leather
-- Lindwurm Scales
-
-Wools:
-
 Cloths:
-- Blue Cat Lily
+- Milira Feather
 - Hyperweave
+- Aramid Cloth
+- Araneron
+
+Metals:
+- Solar-Forged Steel
+- Ceramics (awful blunt, great sharp)
+- Composite
+- Plasteel OR Tungsteel
+- Amorphous Polymer
+
 
 {%- if puppeteer -%}
 <br/>
