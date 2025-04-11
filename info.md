@@ -122,7 +122,7 @@ ONLY COPY itemane[materialtype,quality]. No spaces.
 ***Check next section for details
 ****MOLLE for bulk/mass increase, Closed Oxygen Cylinder for pain shock/move speed
 
-##Utility Items
+## Utility Items
 
 Pick one, based on your character build. Torso slots do not conflict with utility slots.
 
