@@ -96,7 +96,6 @@ what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 # FAQ
 
 ## What is the best gear?
-## OUT OF DATE
 
 The best gear varies from playthrough to playthrough, but the current best gear set is:
 
@@ -104,44 +103,60 @@ Format: Layer \ Coverage - itemname[materialtype,quality]
 
 ONLY COPY itemane[materialtype,quality]. No spaces.
 
-- Outer (Head) - bearheaddress[griffonleather,legendary]
-- Outer \ Torso/shoulder - sleevelessbuffcoat[griffonleather,legendary] OR lightlamellar[griffonleather,legendary]
-- Middle \ Torso/legs - barbariantribaloutfit[griffonleather,legendary]
-- Webbing \ Torso - heavybandolier ***
-- On top \ Torso/arms - strawcloak[legendary]
-- Backpack \ Shoulder - snapsack[legendary] *
-- Utility \ Shoulder - quiver[legendary] *
-- Middle \ Hands - gloves[griffonleather,legendary]
-- Outer \ Hands/arms - tallgloves[griffonleather,legendary]
-- Utility \ Utility Slot - anything
-- Ring \ Middle Finger - ringoftending OR ringofstunimmunity OR ringofhaste ***
-- Leg Outer \ Legs - paddedchausses[griffonleather,legendary]
-- Middle \ Feet - boots[griffonleather,legendary]
-- Outer \ Legs/feet - tallboots[griffonleather,legendary]
-- Skin \ Torso/arms - gambeson[bluecatlily,legendary]
-- Skin \ Legs - hose[griffonleather,legendary]
-- Attachment \ Torso/shoulder - additionalfurpadding ***
+- Outer (Head) \ full - ironhelm[solar-forgedsteel,legendary]
+- Strapped (Head) \ eyes - nightvisiongoggles (any)
+- Strapped (Head) \ head, ears - gunlink (any)
+- Strapped (Head) \ jaw - facemask[milirafeather,legendary]
+- Skin (Head) \ neck, jaw - stealthmask[milirafeather,legendary]
+- Middle\ full - ironhide[solar-forgedsteel,legendary]
+- Skin \ full - fragsuit[milirafeather,legendary] OR uniformepischica[legendary] OR orassanflightsuit[legendary] *
+- Outer \ full - gorkacombatbodysuit[milirafeather,legendary]
+- Webbing \ shoulders - aternitignianimperialarmysuspenders[legendary]
+- Webbing \ utility slot - any **
+- Utility \ utility slot - any ***
+- Utility \ legs - chemlightlegpack (any)
+- Backpack \ shoulder - molle2rucksack(ucp) (any) OR closedoxygencylinder (any) ****
 
-  * Material doesn't matter
-  ** Quality doesn't matter
-  *** Matieral and quality doesn't matter
+*Fragsuit for protection, Uniforme for psychic sensitivity, Flight Suit for 50% bleed factor
+**Rimmu-nation belts are identical in cost and stats.
+***Check next section for details
+****MOLLE for bulk/mass increase, Closed Oxygen Cylinder for pain shock/move speed
+
+##Utility Items
+
+Pick one, based on your character build. Torso slots do not conflict with utility slots.
+
+- Utility Slot - jumppack[awful]
+- Utility Slot - medicbag[awful] (surgery success, tend quality)
+- Utility Slot - portableassistantcomputer (work speed, learning factor, research speed, hack speed, aim time, ranged cooldown, melee cooldown)
+- Utility Slot - rangedshieldbelt[legendary]
+- Utility Slot - shieldbelt[legendary]
+- Utility Slot - toolbelt[awful] (repair success, construction speed, construct success)
+- Torso - sashimonobanner[awful] (pain shock, suppressability)
+- Torso - quiver[awful] (reload speed)
+
+
+
 ## What are the best materials?
-## UP TO DATE
+
 Best materials also change from playthrough to playthrough. Currently, the best materials are, in this order:
 
 Cloths:
 - Milira Feather
 - Hyperweave
+- Blue Cat Lily
 - Aramid Cloth
 - Araneron
 
 Metals:
 - Solar-Forged Steel
-- Ceramics (awful blunt, great sharp)
-- Composite
+- Composite *
+- Ceramics (awful blunt, great sharp, low hp) **
 - Plasteel OR Tungsteel
 - Amorphous Polymer
 
+*May not be purchasable
+**Requires Archotech apparel-integrator implant
 
 {%- if puppeteer -%}
 <br/>
