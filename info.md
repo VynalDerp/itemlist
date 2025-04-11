@@ -117,10 +117,10 @@ ONLY COPY itemane[materialtype,quality]. No spaces.
 - Utility \ legs - chemlightlegpack (any)
 - Backpack \ shoulder - molle2rucksack(ucp) (any) OR closedoxygencylinder (any) *4
 
-*1 Fragsuit for protection, Uniforme for psychic sensitivity, Flight Suit for 50% bleed factor
-*2 Rimmu-nation belts are identical in cost and stats.
-*3 Check next section for details
-*4 MOLLE for bulk/mass increase, Closed Oxygen Cylinder for pain shock/move speed
+*1 Fragsuit for protection, Uniforme for psychic sensitivity, Flight Suit for 50% bleed factor <br/>
+*2 Rimmu-nation belts are identical in cost and stats. <br/>
+*3 Check next section for details <br/>
+*4 MOLLE for bulk/mass increase, Closed Oxygen Cylinder for pain shock/move speed <br/>
 
 ## Utility Items
 
@@ -155,8 +155,8 @@ Metals:
 - Plasteel OR Tungsteel
 - Amorphous Polymer
 
-*1 May not be purchasable
-*2 Requires Archotech apparel-integrator implant
+*1 May not be purchasable <br/>
+*2 Requires Archotech apparel-integrator implant <br/>
 
 {%- if puppeteer -%}
 <br/>
