@@ -4477,9 +4477,9 @@
         "stats": [
           "+52.00 Mass",
           "+0% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$5500 Market value",
           "+4.60 Move speed",
           "+22% Mental break threshold",
@@ -4521,8 +4521,11 @@
           "+25.0% Armor - Heat",
           "+2.00 Neural heat recovery rate",
           "+150% / day Meditation psyfocus gain",
-          "+0.13 Armor - Sharp",
-          "+1 Armor - Blunt"
+          "+50 Carry weight",
+          "+25 Bulk capacity",
+          "+0% Suppressability",
+          "+0% Smoke sensitivity",
+          "+80% Night vision efficiency"
         ],
         "mod": "Unknown",
         "karmaType": null

@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -222,17 +217,17 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -321,5 +316,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 64
+	"total": 63
 }

@@ -546,10 +546,10 @@
     "version": null
   },
   {
-    "author": "FluffyKittens",
-    "name": "Categorized Bill Dropdown",
-    "steamId": null,
-    "version": null
+    "author": "kathanon",
+    "name": "Categorized Bill Menus",
+    "steamId": "2893365816",
+    "version": "1.0.0.0"
   },
   {
     "author": "Grizzlemethis",
@@ -1047,7 +1047,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.41"
+    "version": "1.5.42"
   },
   {
     "author": "Feng Xinzi",
@@ -1960,6 +1960,30 @@
     "name": "Project Fufugirl",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Quamtum Fox",
+    "name": "Milira CE Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Explorer_n11",
+    "name": "Vehicles Wrecks Expanded - Pickable Wrecks Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anonymous",
+    "name": "VVE - Secondary Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",

@@ -34,13 +34,13 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "demonbloodpotion",
@@ -52,7 +52,7 @@
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "flake",
@@ -622,7 +622,7 @@
       "abr": "scrollofknowledge",
       "category": "Misc",
       "defname": "TechprofSubpersonaCore",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "thrumbohorn",
@@ -664,13 +664,13 @@
       "abr": "vegetarianfinemeal",
       "category": "Meals",
       "defname": "MealFine_Veg",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "carnivorefinemeal",
       "category": "Meals",
       "defname": "MealFine_Meat",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "lavishmeal",
@@ -682,13 +682,13 @@
       "abr": "vegetarianlavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Veg",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "carnivorelavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Meat",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "kibble",
@@ -6268,7 +6268,7 @@
       "abr": "suspiciousrum",
       "category": "Drugs",
       "defname": "AM_CorpseRumBasic",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "finerum",
@@ -10108,7 +10108,7 @@
       "abr": "ballisticshield",
       "category": "Shields",
       "defname": "CE_Apparel_BallisticShield",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "compositevest",
@@ -10324,7 +10324,7 @@
       "abr": "synchronisitypowder",
       "category": "Drugs",
       "defname": "Synchronisity",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "rockpowder",
@@ -11482,13 +11482,13 @@
       "abr": "vegetarianlargefinemeal",
       "category": "Meals",
       "defname": "BS_MealLargeFine_Veg",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "carnivorelargefinemeal",
       "category": "Meals",
       "defname": "BS_MealLargeFine_Meat",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "lavishlargemeal",
@@ -11500,13 +11500,13 @@
       "abr": "vegetarianlargelavishmeal",
       "category": "Meals",
       "defname": "BS_MealLargeLavish_Veg",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "carnivorelargelavishmeal",
       "category": "Meals",
       "defname": "BS_MealLargeLavish_Meat",
-      "price": -10
+      "price": 120
     },
     {
       "abr": "giantclub",
@@ -11716,7 +11716,7 @@
       "abr": "packagedpastemeal",
       "category": "Meals",
       "defname": "NPP_MealPackagedNutrientPaste",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "mendingworkbench",
@@ -14602,7 +14602,7 @@
       "abr": "kinderwurst",
       "category": "Foods",
       "defname": "MS_Kinderwurst",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "conductorwand",
@@ -15712,25 +15712,25 @@
       "abr": "assaultshield",
       "category": "Shields",
       "defname": "CE_Apparel_AssaultShield",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "buckler",
       "category": "Shields",
       "defname": "CE_Apparel_Buckler",
-      "price": -10
+      "price": 169
     },
     {
       "abr": "pavise",
       "category": "Shields",
       "defname": "CE_Apparel_Pavise",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "wickershield",
       "category": "Shields",
       "defname": "CE_Apparel_WickerShield",
-      "price": -10
+      "price": 242
     },
     {
       "abr": "12poundercannon",
@@ -17071,12 +17071,6 @@
       "price": -10
     },
     {
-      "abr": "techprint(mya'sfufu)",
-      "category": "Techprints",
-      "defname": "Techprint_MyaFufu",
-      "price": -10
-    },
-    {
       "abr": "skilltome(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
@@ -17368,7 +17362,7 @@
       "abr": "spelltome(extinguishflames)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_QuenchFlames",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "spelltome(meteorshower)",
@@ -17752,7 +17746,7 @@
       "abr": "spelltome(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SolarPinhole",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "spelltome(chunkskip)",
@@ -17764,7 +17758,7 @@
       "abr": "spelltome(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Waterskip",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "spelltome(chaosskip)",
@@ -17776,7 +17770,7 @@
       "abr": "spelltome(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Skip",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "spelltome(wallraise)",
@@ -19918,7 +19912,7 @@
       "abr": "“xiaolan”fufu",
       "category": "Furniture",
       "defname": "xiaolanFufu",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "105mmhowitzer",
@@ -21574,7 +21568,7 @@
       "abr": "ancientworkstation",
       "category": "Production",
       "defname": "Cinder_AncientWorkstation",
-      "price": 1092
+      "price": -10
     },
     {
       "abr": "anomalouswatch",
@@ -21592,7 +21586,7 @@
       "abr": "anthromeat",
       "category": "Meat",
       "defname": "Meat_Anthro",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "antibiotic",
@@ -21808,7 +21802,7 @@
       "abr": "artifusclechamber",
       "category": "Production",
       "defname": "DMS_TableArtifuscle",
-      "price": 1100
+      "price": -10
     },
     {
       "abr": "asp-1kir(black)",
@@ -21856,7 +21850,7 @@
       "abr": "assemblyplatfrom",
       "category": "Production",
       "defname": "RT_AssemblyBench",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "asval",
@@ -21910,7 +21904,7 @@
       "abr": "auto-doc",
       "category": "Production",
       "defname": "MJ_Doc",
-      "price": 867
+      "price": -10
     },
     {
       "abr": "automaticmusket",
@@ -22504,7 +22498,7 @@
       "abr": "blood-likeliquidpump",
       "category": "Production",
       "defname": "AE_BloodPump",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "bluepolarbear",
@@ -23662,7 +23656,7 @@
       "abr": "computationcenter",
       "category": "Production",
       "defname": "AM_VirutalMiner",
-      "price": 2767
+      "price": -10
     },
     {
       "abr": "computercase",
@@ -23776,7 +23770,7 @@
       "abr": "crate",
       "category": "Storage",
       "defname": "sbz_MidCrate",
-      "price": 212
+      "price": -10
     },
     {
       "abr": "cratea",
@@ -24046,7 +24040,7 @@
       "abr": "crowjuproductionbench",
       "category": "Production",
       "defname": "Crowju_CraftingBench",
-      "price": 775
+      "price": -10
     },
     {
       "abr": "crowjuquickfirerifle",
@@ -24094,7 +24088,7 @@
       "abr": "crowjusewingmachine",
       "category": "Production",
       "defname": "Crowju_ApparelBench",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "crowjushamanhelmet",
@@ -24316,7 +24310,7 @@
       "abr": "crusaderaltar",
       "category": "Production",
       "defname": "CG_Altar",
-      "price": 1650
+      "price": -10
     },
     {
       "abr": "cryeavschestrig(tan)",
@@ -24418,7 +24412,7 @@
       "abr": "deepdrill",
       "category": "Production",
       "defname": "DeepDrill",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "deepheater",
@@ -24574,13 +24568,13 @@
       "abr": "displaycabinet",
       "category": "Storage",
       "defname": "sbz_DisplayCabinet",
-      "price": 115
+      "price": -10
     },
     {
       "abr": "displayshelf",
       "category": "Storage",
       "defname": "sbz_DisplayShelf",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "displayshelf",
@@ -24598,7 +24592,7 @@
       "abr": "displaytable",
       "category": "Storage",
       "defname": "sbz_DisplayTable",
-      "price": 41
+      "price": -10
     },
     {
       "abr": "disposablelauncher",
@@ -24772,7 +24766,7 @@
       "abr": "electrictailoringbench",
       "category": "Production",
       "defname": "Kiiro_TailoringBench",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "electricalchargedassaultrifle",
@@ -25498,7 +25492,7 @@
       "abr": "forsakenforge",
       "category": "Production",
       "defname": "AG_ForsakenForge",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "forsakenhelmet",
@@ -26044,7 +26038,7 @@
       "abr": "hangershelf",
       "category": "Storage",
       "defname": "sbz_WideHangerShelf",
-      "price": 115
+      "price": -10
     },
     {
       "abr": "haori",
@@ -26170,7 +26164,7 @@
       "abr": "heavycompositeplate",
       "category": "Military components",
       "defname": "AM_HeavyCompositePlate",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "heavyelectromagneticemitter",
@@ -26356,7 +26350,7 @@
       "abr": "horizontalweaponrack",
       "category": "Storage",
       "defname": "sbz_HorizontalWeaponRack",
-      "price": 148
+      "price": -10
     },
     {
       "abr": "howamodel1500",
@@ -26692,7 +26686,7 @@
       "abr": "jerky",
       "category": "Foods",
       "defname": "Kiiro_CuringFood",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "jerkypouch",
@@ -26836,7 +26830,7 @@
       "abr": "kiiroairwireheadset",
       "category": "Headgear",
       "defname": "Kiiro_AirwireHeadset",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "kiiroarcshieldbelt",
@@ -26848,7 +26842,7 @@
       "abr": "kiiroarrayheadset",
       "category": "Headgear",
       "defname": "Kiiro_ArrayHeadset",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "kiiroarrow(deadly)",
@@ -27112,7 +27106,7 @@
       "abr": "kiiroelectricsmithy",
       "category": "Production",
       "defname": "Kiiro_ElectricSmithy",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "kiirofirefoampack",
@@ -27142,7 +27136,7 @@
       "abr": "kiirofueledsmithy",
       "category": "Production",
       "defname": "Kiiro_FueledSmithy",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "kiirogasmask",
@@ -27184,13 +27178,13 @@
       "abr": "kiirogreatarrow(deadly)",
       "category": "Great arrows",
       "defname": "Ammo_KiiroGreatArrow_Deadly",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "kiirogreatarrow(paralytic)",
       "category": "Great arrows",
       "defname": "Ammo_KiiroGreatArrow_Paralytic",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "kiirogrenadebelt",
@@ -27220,7 +27214,7 @@
       "abr": "kiirohandletailoringbench",
       "category": "Production",
       "defname": "Kiiro_HandleTailoringBench",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "kiirohandwarmer",
@@ -27340,7 +27334,7 @@
       "abr": "kiiromachinebench",
       "category": "Production",
       "defname": "Kiiro_MachiningBench",
-      "price": 558
+      "price": -10
     },
     {
       "abr": "kiiromaidcap(stylei)",
@@ -27460,13 +27454,13 @@
       "abr": "kiiropaperartbench",
       "category": "Production",
       "defname": "Kiiro_PaperArtBench",
-      "price": 313
+      "price": -10
     },
     {
       "abr": "kiiropapermakingbench",
       "category": "Production",
       "defname": "Kiiro_PaperMakingBench",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "kiiropaperfoldingcrosspendant",
@@ -28102,7 +28096,7 @@
       "abr": "kompot",
       "category": "Foods",
       "defname": "LnS_Compot",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "kozlice",
@@ -28894,7 +28888,7 @@
       "abr": "kurinelectrictailorbench",
       "category": "Production",
       "defname": "Kurin_Electric_Tailoring_Bench",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "kurinenergymarksmanrifle",
@@ -29758,7 +29752,7 @@
       "abr": "largecrate",
       "category": "Storage",
       "defname": "sbz_Crate",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "largedarkglowpod",
@@ -30418,7 +30412,7 @@
       "abr": "machineryprinter",
       "category": "Production",
       "defname": "DMS_TableMachinePrinter",
-      "price": 1567
+      "price": -10
     },
     {
       "abr": "macrofly",
@@ -30598,7 +30592,7 @@
       "abr": "meathook",
       "category": "Storage",
       "defname": "sbz_MeatHook",
-      "price": 148
+      "price": -10
     },
     {
       "abr": "meathook",
@@ -30844,7 +30838,7 @@
       "abr": "mechanitehackingstation",
       "category": "Production",
       "defname": "CG_HackingStation",
-      "price": 3642
+      "price": -10
     },
     {
       "abr": "medicaljournal",
@@ -31018,7 +31012,7 @@
       "abr": "milianenergystation",
       "category": "Production",
       "defname": "Milian_Recharger",
-      "price": 1917
+      "price": -10
     },
     {
       "abr": "milianfeathershield",
@@ -31468,7 +31462,7 @@
       "abr": "milirasunblastfurnace",
       "category": "Production",
       "defname": "Milira_SunBlastFurnace",
-      "price": 18383
+      "price": -10
     },
     {
       "abr": "milirasunglasses",
@@ -31516,7 +31510,7 @@
       "abr": "milirauniversalworkbench",
       "category": "Production",
       "defname": "Milira_UniversalBench",
-      "price": 3575
+      "price": -10
     },
     {
       "abr": "miliravalkyriearmor",
@@ -31672,7 +31666,7 @@
       "abr": "minchobench",
       "category": "Production",
       "defname": "Mincho_MinchoBench",
-      "price": 229
+      "price": -10
     },
     {
       "abr": "minchoblouseandhighwaistskirt",
@@ -32770,19 +32764,19 @@
       "abr": "narrowdisplaycabinet",
       "category": "Storage",
       "defname": "sbz_NarrowDisplayCabinet",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "narrowhangershelf",
       "category": "Storage",
       "defname": "sbz_HangerShelf",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "narrowtalldisplayshelf",
       "category": "Storage",
       "defname": "sbz_NarrowTallDisplayShelf",
-      "price": 74
+      "price": -10
     },
     {
       "abr": "navid(tan)",
@@ -33112,7 +33106,7 @@
       "abr": "openshelf",
       "category": "Storage",
       "defname": "sbz_OpenShelf",
-      "price": 148
+      "price": -10
     },
     {
       "abr": "openedbeer",
@@ -33388,7 +33382,7 @@
       "abr": "pallet",
       "category": "Storage",
       "defname": "sbz_Pallet",
-      "price": 282
+      "price": -10
     },
     {
       "abr": "palletcratea",
@@ -33796,7 +33790,7 @@
       "abr": "pressurechamber",
       "category": "Production",
       "defname": "DMS_ReactionChamber",
-      "price": 1517
+      "price": -10
     },
     {
       "abr": "prestigemechbreakerarmor",
@@ -34078,19 +34072,19 @@
       "abr": "psytrainer(psychiclance)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VREA_PsychicLance",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "psytrainer(psychicthrow)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VREA_PsychicThrow",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "psytrainer(psychicwarp)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VREA_PsychicWarp",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "psytrainer(shortskip)",
@@ -35758,7 +35752,7 @@
       "abr": "sinteringfurnace",
       "category": "Production",
       "defname": "DMS_Furnace",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "sixarmedhuman",
@@ -35866,13 +35860,13 @@
       "abr": "smallcrate",
       "category": "Storage",
       "defname": "sbz_SmallCrate",
-      "price": 108
+      "price": -10
     },
     {
       "abr": "smalldisplayshelf",
       "category": "Storage",
       "defname": "sbz_SmallDisplayShelf",
-      "price": 41
+      "price": -10
     },
     {
       "abr": "smallfloatunitpack",
@@ -36754,7 +36748,7 @@
       "abr": "talldisplayshelf",
       "category": "Storage",
       "defname": "sbz_TallDisplayShelf",
-      "price": 148
+      "price": -10
     },
     {
       "abr": "tallshelf",
@@ -36988,7 +36982,7 @@
       "abr": "textilerack",
       "category": "Storage",
       "defname": "sbz_TextileRack",
-      "price": 141
+      "price": -10
     },
     {
       "abr": "thechickenbook",
@@ -37642,7 +37636,7 @@
       "abr": "verticalweaponrack",
       "category": "Storage",
       "defname": "sbz_VerticalWeaponRack",
-      "price": 148
+      "price": -10
     },
     {
       "abr": "vestjacket",
@@ -37726,7 +37720,7 @@
       "abr": "vodkacask",
       "category": "Production",
       "defname": "LnS_VodkaCask",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "vodkamixture",
@@ -38362,7 +38356,7 @@
       "abr": "白髮的fufu",
       "category": "Furniture",
       "defname": "White_fufu",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "豪华领主披风",
@@ -38404,14 +38398,254 @@
       "abr": "黑髮的fufu",
       "category": "Furniture",
       "defname": "Black_fufu",
-      "price": 3333
+      "price": -10
+    },
+    {
+      "abr": "milianheavyparticlecell",
+      "category": "Milian Heavy Particle Cell",
+      "defname": "Ammo_MilianParticleHeavy",
+      "price": 4
+    },
+    {
+      "abr": "milianlightparticlecell",
+      "category": "Milian Light Particle Cell",
+      "defname": "Ammo_MilianParticleLight",
+      "price": -10
+    },
+    {
+      "abr": "miliraheavyioncell",
+      "category": "Milira Heavy Ion Cell",
+      "defname": "Ammo_MiliraPlasmaHeavy",
+      "price": 4
+    },
+    {
+      "abr": "milirapistolioncell",
+      "category": "Milira Pistol Ion Cell",
+      "defname": "Ammo_MiliraPlasmaPistol",
+      "price": -10
+    },
+    {
+      "abr": "milirarailgun(sabot)",
+      "category": "Milira Rail gun",
+      "defname": "Ammo_MiliraRailHeavy",
+      "price": 1
+    },
+    {
+      "abr": "milirarailrifle(sabot)",
+      "category": "Milira Rail rifle",
+      "defname": "Ammo_MiliraRailRifle",
+      "price": -10
+    },
+    {
+      "abr": "milirarifleioncell",
+      "category": "Milira Rifle Ion Cell",
+      "defname": "Ammo_MiliraPlasmaRifle",
+      "price": -10
+    },
+    {
+      "abr": "akamefufu",
+      "category": "Furniture",
+      "defname": "GD_AkameFufu",
+      "price": -10
+    },
+    {
+      "abr": "aomefufu",
+      "category": "Furniture",
+      "defname": "GD_AomeFufu",
+      "price": -10
+    },
+    {
+      "abr": "arlenelibitinafufu",
+      "category": "Furniture",
+      "defname": "GD_ALFufu",
+      "price": -10
+    },
+    {
+      "abr": "baierfufu",
+      "category": "Furniture",
+      "defname": "GD_BaierFufu",
+      "price": -10
+    },
+    {
+      "abr": "baimudanfufu",
+      "category": "Furniture",
+      "defname": "GD_BaimudanFufu",
+      "price": -10
+    },
+    {
+      "abr": "baizhifufu",
+      "category": "Furniture",
+      "defname": "GD_BaizhiFufu",
+      "price": -10
+    },
+    {
+      "abr": "buerfufu",
+      "category": "Furniture",
+      "defname": "GD_BuerFufu",
+      "price": -10
+    },
+    {
+      "abr": "calicatcozyfufu",
+      "category": "Furniture",
+      "defname": "GD_CaliCatFufu",
+      "price": -10
+    },
+    {
+      "abr": "catsharkfufu",
+      "category": "Furniture",
+      "defname": "GD_CatsharkFufu",
+      "price": -10
+    },
+    {
+      "abr": "cinderfufu",
+      "category": "Furniture",
+      "defname": "GD_CinderFufu",
+      "price": -10
+    },
+    {
+      "abr": "dongnanzhifufu",
+      "category": "Furniture",
+      "defname": "GD_DongnanzhiFufu",
+      "price": -10
+    },
+    {
+      "abr": "hanafufu",
+      "category": "Furniture",
+      "defname": "GD_HanaFufu",
+      "price": -10
+    },
+    {
+      "abr": "jiaerfufu",
+      "category": "Furniture",
+      "defname": "GD_JiaerFufu",
+      "price": -10
+    },
+    {
+      "abr": "jillerfufu",
+      "category": "Furniture",
+      "defname": "GD_JillerFufu",
+      "price": -10
+    },
+    {
+      "abr": "kohimefufu",
+      "category": "Furniture",
+      "defname": "GD_KohimeFufu",
+      "price": -10
+    },
+    {
+      "abr": "konfufu",
+      "category": "Furniture",
+      "defname": "GD_KongFufu",
+      "price": -10
+    },
+    {
+      "abr": "kuoerfufu",
+      "category": "Furniture",
+      "defname": "GD_KuoerFufu",
+      "price": -10
+    },
+    {
+      "abr": "kurofufu",
+      "category": "Furniture",
+      "defname": "GD_KuroFufu",
+      "price": -10
+    },
+    {
+      "abr": "lemonfufu",
+      "category": "Furniture",
+      "defname": "GD_LemonFufu",
+      "price": -10
+    },
+    {
+      "abr": "mikofufu",
+      "category": "Furniture",
+      "defname": "GD_MikoFufu",
+      "price": -10
+    },
+    {
+      "abr": "nyaronfufu",
+      "category": "Furniture",
+      "defname": "GD_NyaronFufu",
+      "price": -10
+    },
+    {
+      "abr": "sirofufu",
+      "category": "Furniture",
+      "defname": "GD_SiroFufu",
+      "price": -10
+    },
+    {
+      "abr": "smeltedloongfufu",
+      "category": "Furniture",
+      "defname": "GD_LoongFufu",
+      "price": -10
+    },
+    {
+      "abr": "yukifufu",
+      "category": "Furniture",
+      "defname": "GD_YukiFufu",
+      "price": -10
+    },
+    {
+      "abr": "zhuerfufu",
+      "category": "Furniture",
+      "defname": "GD_ZhuerFufu",
+      "price": -10
+    },
+    {
+      "abr": "zixiadiefufu",
+      "category": "Furniture",
+      "defname": "GD_ZixiadieFufu",
+      "price": -10
+    },
+    {
+      "abr": "zyszhaofufu",
+      "category": "Furniture",
+      "defname": "GD_ZysFufu",
+      "price": -10
+    },
+    {
+      "abr": "kiirolargematerialrack",
+      "category": "Furniture",
+      "defname": "Kiiro_MaterialRackLarge",
+      "price": 212
+    },
+    {
+      "abr": "kiiromediummaterialrack",
+      "category": "Furniture",
+      "defname": "Kiiro_MaterialRackMedium",
+      "price": 112
+    },
+    {
+      "abr": "kiiromediumstackrack",
+      "category": "Furniture",
+      "defname": "Kiiro_StackRackMedium",
+      "price": 145
+    },
+    {
+      "abr": "kiirowallrack",
+      "category": "Furniture",
+      "defname": "Kiiro_WallRack",
+      "price": 68
+    },
+    {
+      "abr": "mya'ssewingmachine",
+      "category": "Production",
+      "defname": "Fufu_TailoringBench",
+      "price": -10
     },
     {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
+    },
+    {
+      "abr": "omiyari",
+      "category": "Melee weapons",
+      "defname": "TSF_OmiYari",
+      "price": 342
     }
   ],
-  "total": 6402
+  "total": 6441
 }
