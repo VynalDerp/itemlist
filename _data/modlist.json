@@ -1974,7 +1974,7 @@
     "version": null
   },
   {
-    "author": "Anonymous",
+    "author": "050",
     "name": "VVE - Secondary Weapons",
     "steamId": null,
     "version": null
@@ -1983,6 +1983,30 @@
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Linnun",
+    "name": "Auto-Cast Specialist Commands",
+    "steamId": "3459647882",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Scrollable Genelist",
+    "steamId": "3453246011",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Krelinos",
+    "name": "Social EXP from Trade",
+    "steamId": "3400608063",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "rabiosus",
+    "name": "Auto Conduits",
+    "steamId": "3423393846",
     "version": "1.0.0.0"
   },
   {
