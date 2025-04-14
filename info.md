@@ -150,13 +150,11 @@ Cloths:
 
 Metals:
 - Solar-Forged Steel
-- Composite *1
-- Ceramics (awful blunt, great sharp, low hp) *2
+- Ceramics (awful blunt, great sharp, low hp) *1
 - Plasteel OR Tungsteel
 - Amorphous Polymer
 
-*1 May not be purchasable <br/>
-*2 Requires Archotech apparel-integrator implant <br/>
+*1 Requires Archotech apparel-integrator implant <br/>
 
 {%- if puppeteer -%}
 <br/>
