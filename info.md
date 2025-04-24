@@ -133,7 +133,7 @@ Pick one, based on your character build. Torso slots do not conflict with utilit
 - Utility Slot - shieldbelt[legendary]
 - Utility Slot - toolbelt[awful] (repair success, construction speed, construct success)
 - Torso - sashimonobanner[awful] (pain shock, suppressability)
-- Torso - quiver[awful] (reload speed)
+- Torso - quiver[awful] (reload speed, ranged cooldown)
 
 
 
