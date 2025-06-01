@@ -114,6 +114,12 @@
     "version": "1.5"
   },
   {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.1+1b3d12d07c712c020aabac8255d0a856a9d12cce"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -122,8 +128,8 @@
   {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "1718190143",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -142,12 +148,6 @@
     "name": "Use Bedrolls",
     "steamId": "1353625821",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.1.1"
   },
   {
     "author": "vin",
@@ -348,6 +348,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Trickity",
+    "name": "T's Samurai Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "CE Team",
     "name": "Combat Extended",
     "steamId": "2890901044",
@@ -387,7 +393,7 @@
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.5.13"
+    "version": "1.5.14"
   },
   {
     "author": "Neronix17",
@@ -634,12 +640,6 @@
     "name": "Random's Gene Assistant",
     "steamId": "2882497271",
     "version": "1.0.0"
-  },
-  {
-    "author": "Trickity",
-    "name": "T's Samurai Faction",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Kirby",
@@ -1047,7 +1047,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.42"
+    "version": "1.5.48"
   },
   {
     "author": "Feng Xinzi",
@@ -1077,7 +1077,7 @@
     "author": "CalaveraLoca",
     "name": "Combat Effects for Combat Extended (Continued)",
     "steamId": "2172612733",
-    "version": "1.5.1"
+    "version": "1.5.2"
   },
   {
     "author": "CE Team",
@@ -1461,7 +1461,7 @@
     "author": "MrHydralisk",
     "name": "Anomalies Expected",
     "steamId": "3240752689",
-    "version": "2.0.7.0"
+    "version": "2.3.3.0"
   },
   {
     "author": "Fallen",
@@ -1562,12 +1562,6 @@
   {
     "author": "Oskar Potocki and Smash Phil",
     "name": "Vanilla Vehicles Expanded - Upgrades",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Samael Gray",
-    "name": "VVE - Upgrades Extended",
     "steamId": null,
     "version": null
   },
@@ -2007,6 +2001,60 @@
     "author": "rabiosus",
     "name": "Auto Conduits",
     "steamId": "3423393846",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DwS.4",
+    "name": "D-FunctionalAmmunition Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PolandBall",
+    "name": "PBs New Ammunitions Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AlenDio",
+    "name": "Make Your Bulk",
+    "steamId": "3386316410",
+    "version": "1.2"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Gene Extractor Tiers",
+    "steamId": "3016454783",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AmCh, HappyCam and Eragon",
+    "name": "Gene Fabrication",
+    "steamId": "3352773112",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "theactualspinny",
+    "name": "Gene Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Gene Nodes - Genes for Sale",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Wealth",
+    "steamId": "3461137081",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LotusLand",
+    "name": "CE Manual Patcher",
+    "steamId": "3463185565",
     "version": "1.0.0.0"
   },
   {
