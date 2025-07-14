@@ -1972,7 +1972,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Framework",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "BS_Gentle",
@@ -2131,84 +2131,6 @@
       },
       "defName": "AM_Ahimsa",
       "name": "vowofnonviolence"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": -1,
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
-      "stats": [
-        "+25% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+25% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "cowardly"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 1,
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-50% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "brave"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 2,
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-100% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "fearless"
     },
     {
       "canAdd": true,
@@ -2517,72 +2439,6 @@
       "canRemove": true,
       "addPrice": 2000,
       "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy's faith is firm. It allows him to withstand mentally or physically stressing situations better than most.",
-      "stats": [
-        "+10% pain shock threshold",
-        "-15% mental break threshold"
-      ],
-      "conflicts": [
-        "carefulshooter",
-        "trigger-happy",
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "carefulshooter",
-          "trigger-happy",
-          "wimp"
-        ],
-        "stats": [
-          "+10% pain shock threshold",
-          "-15% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "NewRatkinPlus",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faith",
-      "name": "faithful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy don't care about the awful bedroom environment.",
-      "stats": [],
-      "conflicts": [
-        "ascetic",
-        "greedy",
-        "jealous"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic",
-          "greedy",
-          "jealous"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ratkin Gene Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RKTrait_YunDanFengQing",
-      "name": "takeiteasy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy prefers to focus on living his life to the fullest, rather than strictly obeying religious doctrine.\n\nAs such, he is more scientifically- and technically-minded compared with other Mousekins.",
       "stats": [
@@ -2765,186 +2621,6 @@
       },
       "defName": "Mousekin_TraitSpectrum_Faith",
       "name": "inquisitionist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy rejects ranged weapons, instead he focuses on mastering his blade and footwork.",
-      "stats": [
-        "+4 melee",
-        "+4.0 melee hit chance",
-        "+10.0 melee dodge chance",
-        "+0.10 move speed"
-      ],
-      "conflicts": [
-        "samurai",
-        "wayofthebow"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "samurai",
-          "wayofthebow"
-        ],
-        "stats": [
-          "+4 melee",
-          "+4.0 melee hit chance",
-          "+10.0 melee dodge chance",
-          "+0.10 move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSKensei",
-      "name": "kensei"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is a formally trained samurai and the backbone of any clan's army, he is versitile, hits hard and is even harder to kill.",
-      "stats": [
-        "+2 melee",
-        "+2 shooting",
-        "+2.0 melee hit chance",
-        "+2.0 weapon handling",
-        "-20% incoming damage multiplier",
-        "+15% pain shock threshold"
-      ],
-      "conflicts": [
-        "kensei",
-        "wayofthebow"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kensei",
-          "wayofthebow"
-        ],
-        "stats": [
-          "+2 melee",
-          "+2 shooting",
-          "+2.0 melee hit chance",
-          "+2.0 weapon handling",
-          "-20% incoming damage multiplier",
-          "+15% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSSamurai",
-      "name": "samurai"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is a practitioner of The Way of The Bow, his well placed shots can be the deciding factor in the outcome of a fight.",
-      "stats": [
-        "+4 shooting",
-        "+5.0 weapon handling",
-        "-15% aiming time"
-      ],
-      "conflicts": [
-        "kensei",
-        "samurai"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kensei",
-          "samurai"
-        ],
-        "stats": [
-          "+4 shooting",
-          "+5.0 weapon handling",
-          "-15% aiming time"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSWayOfTheBow",
-      "name": "wayofthebow"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is a masterless warrior, his life on the road has been tough, but it has strengthened his body and mind.",
-      "stats": [
-        "-6% mental break threshold",
-        "+10% medical tend quality",
-        "+9.0F max comfortable temperature",
-        "-9.0F min comfortable temperature",
-        "+5 carrying capacity",
-        "+10% rest rate multiplier",
-        "+0.20 move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-6% mental break threshold",
-          "+10% medical tend quality",
-          "+9.0F max comfortable temperature",
-          "-9.0F min comfortable temperature",
-          "+5 carrying capacity",
-          "+10% rest rate multiplier",
-          "+0.20 move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSRonin",
-      "name": "ronin"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy had been imprisoned by the void for hundreds of years. Now he has broken free from its bondage, but it is still unable to completely escape its influence.",
-      "stats": [
-        "Void meditation focus type allowed."
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Void meditation focus type allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ratkin Anomaly+",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RA_HelenTrait",
-      "name": "voidtouched"
     },
     {
       "canAdd": true,
@@ -3436,50 +3112,6 @@
       "addPrice": 2000,
       "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy detests burst fire weapons. he can use them, but will be happier without it.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Crowju Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Crowju_TraitAutomaticphobia",
-      "name": "fullauto-phobia"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "A fire of revenge towards mechanoids burns within Timmy, but human controlled ones are acceptable. he feels uneasy when hostile mechaoids are around, and will become happy from destroying one.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Crowju Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Crowju_TraitMechphobia",
-      "name": "crowjumentality"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
       "description": "Timmy loves to sleep and always feels like he hasn't had enough rest.",
       "stats": [
         "-20% rest rate multiplier"
@@ -3656,7 +3288,7 @@
       "addPrice": 2000,
       "removePrice": 2000,
       "degree": 0,
-      "description": "Timmyis a valor supported by kiiros.",
+      "description": "Timmy is a valor supported by kiiros.",
       "stats": [
         "+5 melee",
         "+25.00% social impact",
@@ -3748,166 +3380,6 @@
       "addPrice": 2000,
       "removePrice": 2000,
       "degree": 0,
-      "description": "A Kurin.\n\n¯\\_(ツ)_/¯",
-      "stats": [
-        "+2 intellectual",
-        "-2 animals",
-        "+1.0 beauty",
-        "+15.00% trade price improvement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2 intellectual",
-          "-2 animals",
-          "+1.0 beauty",
-          "+15.00% trade price improvement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait",
-      "name": "kurinlike"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Strange kind of kurins... Timmy likes plants.",
-      "stats": [
-        "+10 plants",
-        "+30% plant work speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+10 plants",
-          "+30% plant work speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait_StrangeKurin",
-      "name": "strangekurin"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is of a radicalised kind of kurins. Their thirst for revenge and hatred for the offenders of kurinkind is unyielding, unending.",
-      "stats": [
-        "+50% global certainty loss factor"
-      ],
-      "conflicts": [
-        "kind"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kind"
-        ],
-        "stats": [
-          "+50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kurin_Trait_FuriousKurin",
-      "name": "furiouskurin"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "A Kimiri.\n\n¯\\_(ツ)_/¯",
-      "stats": [
-        "+2 intellectual",
-        "+2 social",
-        "+2 melee",
-        "+1.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2 intellectual",
-          "+2 social",
-          "+2 melee",
-          "+1.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kimiri_Trait",
-      "name": "kurinlike(kimiri)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is a knight who strictly adheres to the chivalric creed, upholding justice, self-discipline, and regarding the protection of others as their divine duty.",
-      "stats": [
-        "+2 melee",
-        "+1.0 beauty",
-        "x75% global certainty loss factor",
-        "x75% incoming damage multiplier"
-      ],
-      "conflicts": [
-        "abrasive",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "abrasive",
-          "psychopath"
-        ],
-        "stats": [
-          "+2 melee",
-          "+1.0 beauty",
-          "x75% global certainty loss factor",
-          "x75% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ratkin Knights+",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KnightCreed",
-      "name": "knightcreed"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
       "description": "Timmy is a part of an unknown consciousness. when others approach, they will feel a burning sensation",
       "stats": [
         "+1.0 beauty",
@@ -3960,24 +3432,22 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -3985,15 +3455,13 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4009,72 +3477,7 @@
         "customName": false,
         "stats": [
           "+60.00 Mass",
-          "+100% Flammability",
-          "+1.7 Melee dodge chance",
-          "+193% Melee critical chance",
-          "+75% Melee parry chance",
-          "+$1900 Market value",
-          "+6.00 Move speed",
-          "-108.0F Min comfortable temperature",
-          "+46.8F Max comfortable temperature",
-          "+35 Leather amount",
-          "+4 Honor value",
-          "+120% Research speed",
-          "+95% Mining speed",
-          "+120.00% Social impact",
-          "+100.00% Aiming accuracy",
-          "+100% Reload speed",
-          "+100% Suppressability"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
-      "defName": "Alien_Orassan",
-      "enabled": false,
-      "name": "orassan",
-      "price": 3167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+1.7 Melee dodge chance",
-          "+193% Melee critical chance",
-          "+75% Melee parry chance",
-          "+$1900 Market value",
-          "+6.23 Move speed",
-          "+0.0F Min comfortable temperature",
-          "+46.8F Max comfortable temperature",
-          "+35 Leather amount",
-          "+4 Honor value",
-          "+110% Research speed",
-          "+98% Mining speed",
-          "+125.00% Social impact",
-          "+100.00% Aiming accuracy",
-          "+100% Reload speed",
-          "+100% Suppressability"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
-      "defName": "Alien_OrassanHumanHybrid",
-      "enabled": false,
-      "name": "neko",
-      "price": 3167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
           "+70% Flammability",
-          "+1.1 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+90% Melee parry chance",
           "+$1750 Market value",
           "+6.50 Move speed",
           "+1.0 Beauty",
@@ -4101,27 +3504,26 @@
         "stats": [
           "+60.00 Mass",
           "+0% Flammability",
-          "+0.3 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$2500 Market value",
           "+4.60 Move speed",
           "+18.0F Min comfortable temperature",
           "+72.0F Max comfortable temperature",
           "+0 Leather amount",
           "+3 Honor value",
+          "+75% Wildness",
           "+75% Psychic sensitivity",
           "+100% Toxic resistance",
           "+0% Fertility",
           "+0.5 Flirt chance",
           "+120% Global learning factor",
           "+0 Meat amount",
-          "+1.5 Max nutrition",
+          "+1.58 Max nutrition",
           "+80 Carrying capacity",
           "+100.00 kg Mass carry capacity",
+          "+200% Vacuum resistance",
           "+200.0% Armor - Heat",
-          "+0.25 Armor - Blunt",
-          "+0.45 Armor - Sharp"
+          "+25.0% Armor - Blunt",
+          "+45.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4136,92 +3538,8 @@
       "data": {
         "customName": false,
         "stats": [
-          "+35.00 Mass",
-          "+100% Flammability",
-          "+1.1 Melee dodge chance",
-          "+105% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+55.8F Max comfortable temperature",
-          "+10.8F Min comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+50% Toxic environment resistance",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+35 Leather amount",
-          "+118% Aiming time",
-          "+85.00% Negotiation ability",
-          "+107.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed",
-          "+50.00% Food poison chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
-      "defName": "Ratkin",
-      "enabled": false,
-      "name": "Ratkin",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+35.00 Mass",
-          "+100% Flammability",
-          "+1.1 Melee dodge chance",
-          "+105% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+55.8F Max comfortable temperature",
-          "+10.8F Min comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+80% Toxic environment resistance",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+35 Leather amount",
-          "+118% Aiming time",
-          "+75.00% Negotiation ability",
-          "+95.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed",
-          "+50.00% Food poison chance",
-          "+85% Psychic sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
-      "defName": "Ratkin_Su",
-      "enabled": false,
-      "name": "Ratkin subject",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+45.00 Mass",
           "+100% Flammability",
-          "+1.5 Melee dodge chance",
-          "+80% Melee critical chance",
-          "+80% Melee parry chance",
           "+$1000 Market value",
           "+4.85 Move speed",
           "+110% Psychic sensitivity",
@@ -4231,6 +3549,7 @@
           "+46.8F Max comfortable temperature",
           "+110% Immunity gain speed",
           "+75% Pain shock threshold",
+          "+1.5 Melee dodge chance",
           "+135% Aiming time",
           "+75.00% Negotiation ability",
           "+90.00% Social impact",
@@ -4238,9 +3557,7 @@
           "+80% Research speed",
           "+150% Plant work speed",
           "+150% Hunting stealth",
-          "+85% Construction speed",
-          "+120% Smoke sensitivity",
-          "+120% Suppressability"
+          "+85% Construction speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4255,110 +3572,10 @@
       "data": {
         "customName": false,
         "stats": [
-          "+200.00 Mass",
-          "+70% Flammability",
-          "+0.9 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$2500 Market value",
-          "+7.00 Move speed",
-          "+20% Mental break threshold",
-          "+37.8F Max comfortable temperature",
-          "-36.0F Min comfortable temperature",
-          "+500 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+110% Eating speed",
-          "+150 Meat amount",
-          "+60 Leather amount",
-          "+120.00% Negotiation ability",
-          "+150.00% Arrest success chance",
-          "+150.00% Social impact",
-          "+12 Honor value",
-          "+150% Mining speed",
-          "+150% Smoothing speed",
-          "+70% Research speed",
-          "+125% Plant work speed",
-          "+120% Hunting stealth",
-          "+125% Construction speed",
-          "+125% General labor speed",
-          "+500 Carry weight",
-          "+120 Bulk capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A tall humanoid race known for their unique overbearing antlers, immense physical strength, and notably low agility. Moosesians are reclusive by nature and though they are commonly docile, most prefer to stick to their kin and would become agitated at the first sign of aggression. Each and every Moosesian is a member of their respective family until their coming of age when they are obliged to venture off and start their own, an average Moosesian household could range anywhere from a few dozens to almost fifty, and sometimes more. When compared to baseline humans, they possess much 'slower' intelligence which, combined with their tendency to fight among themselves, is the sole reason they have yet to dominate the rim with their sheer numbers.",
-      "defName": "Moosesian",
-      "enabled": true,
-      "name": "Moosesian",
-      "price": 1337
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+28.8F Min comfortable temperature",
-          "+46.8F Max comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A weird being.",
-      "defName": "Anthro",
-      "enabled": false,
-      "name": "Anthro",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$2000 Market value",
-          "+5.50 Move speed",
-          "+18.0F Min comfortable temperature",
-          "+46.8F Max comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+33.9 Flight range",
-          "+100% Flight cooldown factor",
-          "+8.0 Flight speed factor"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A humanlike race with a pair of wings on their backs. Their wings are not strong enough for prolonged flights, but more than enough for tactical movements.\n\nCrowju societies are tied to gigantic nomad fleets that they called \"nests\", where all members that isn't a slave belongs to a huge and complex military hierarchy, and possess their own ranks. They're unitied by a common goal of revenge towards mechanoids which destroyed their home planet.\n\nCrowju military training favours sniping and melee combat, and abhors automatic weapons.",
-      "defName": "Race_Crowju",
-      "enabled": false,
-      "name": "crowju",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+45.00 Mass",
           "+30% Flammability",
-          "+0.0 Melee dodge chance",
-          "+150% Melee critical chance",
-          "+200% Melee parry chance",
           "+$1800 Market value",
-          "+4.80 Move speed",
+          "+5.00 Move speed",
           "+35% Mental break threshold",
           "+66.6F Max comfortable temperature",
           "+9.0F Min comfortable temperature",
@@ -4368,7 +3585,7 @@
           "+45 Meat amount",
           "+50 Leather amount",
           "+100% Global learning factor",
-          "+115% Psychic sensitivity",
+          "+100% Psychic sensitivity",
           "+80% Pain shock threshold",
           "+100% General labor speed",
           "+100% Drug synthesis speed",
@@ -4408,78 +3625,10 @@
       "data": {
         "customName": false,
         "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$2625 Market value",
-          "+4.60 Move speed",
-          "+25.2F Min comfortable temperature",
-          "+50.4F Max comfortable temperature",
-          "+75 Leather amount",
-          "+135 Meat amount",
-          "+3 Honor value",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+100.00% Negotiation ability",
-          "+100.00% Social impact",
-          "+100% Immunity gain speed",
-          "+100% Mining speed",
-          "+100% Research speed",
-          "+100% Plant work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Kurin, The Three Tailed Fox.\n\n\"Kurin\" is a biological species born from genetic engineering of a prosperous glitterworld. Their DNA does not have the flaws that natural evolutionary processes have filled human DNA with. Moreover, they have great extensions to \"genetic human base\", such as three fox-like tails, fox-like ears, better sensory organs, etc. They have one of the highest quality body possible for humanoid species based on Carbon.",
-      "defName": "Kurin",
-      "enabled": false,
-      "name": "kurin",
-      "price": 4375
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$3595 Market value",
-          "+4.60 Move speed",
-          "+25.2F Min comfortable temperature",
-          "+50.4F Max comfortable temperature",
-          "+3 Honor value",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+100.00% Social impact",
-          "+100% Mining speed",
-          "+100% Plant harvest yield",
-          "+100% Animal gather yield",
-          "+100% Mining yield",
-          "+100% Immunity gain speed",
-          "+100% Research speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "\"Kimiri\" is a biological species born from genetic engineering of kurinworld. Kimiris were made in kurin project of super-soldier creation, kurins are cornered, but they need a foxpower to overcome the existential war and succeed. On one of planets that kurins colonized just a little they found an interesting bipedal, oviparous species, 2~3 metres in height, with a massive tail, they had horns with ability to create powerful electric arcs and ability to navigate by feeling magnetic field of their planet. So kurins took their DNA and created the new species using kurin genetic base, just like they created lilins.",
-      "defName": "Kimiri",
-      "enabled": false,
-      "name": "kimiri",
-      "price": 5992
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+52.00 Mass",
           "+0% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
+          "+5000 Max flight time",
+          "+0 Flight cooldown",
           "+$5500 Market value",
           "+4.60 Move speed",
           "+22% Mental break threshold",
@@ -4521,11 +3670,7 @@
           "+25.0% Armor - Heat",
           "+2.00 Neural heat recovery rate",
           "+150% / day Meditation psyfocus gain",
-          "+50 Carry weight",
-          "+25 Bulk capacity",
-          "+0% Suppressability",
-          "+0% Smoke sensitivity",
-          "+80% Night vision efficiency"
+          "+100% Vacuum resistance"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4542,11 +3687,8 @@
         "stats": [
           "+56.00 Mass",
           "+200% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+1 Armor - Sharp",
-          "+0.5 Armor - Blunt",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
           "+0.0% Armor - Heat",
           "+3% Mental break threshold",
           "+0% Psychic sensitivity",
@@ -4572,9 +3714,7 @@
           "-540.0F Min comfortable temperature",
           "+41.4F Max comfortable temperature",
           "+3 Honor value",
-          "+0% Stagger time multiplier",
-          "+80% Suppressability",
-          "+0% Smoke sensitivity"
+          "+0% Stagger time multiplier"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4589,61 +3729,8 @@
       "data": {
         "customName": false,
         "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+10.0 Melee dodge chance",
-          "+130% Melee critical chance",
-          "+50% Melee parry chance",
-          "+$3000 Market value",
-          "+5 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+120% Global work speed",
-          "+90% Construct success chance",
-          "+90% Mining yield",
-          "+90% Plant harvest yield",
-          "+90% Drug crop harvest yield",
-          "+150.00% Tame animal chance",
-          "+120.00% Train animal chance",
-          "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+82% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+39.6F Min comfortable temperature",
-          "+72.0F Max comfortable temperature",
-          "+5.20 Move speed",
-          "+95% Aiming time",
-          "+1.2 Melee hit chance",
-          "+100.00% Aiming accuracy",
-          "+90% Suppressability",
-          "+90% Smoke sensitivity",
-          "+30 Bulk capacity",
-          "+60 Carry weight",
-          "+125% Reload speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": false,
-      "name": "Nyaron",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+75.00 Mass",
           "+100% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4 Honor value",
           "+4.60 Move speed",
@@ -4654,15 +3741,14 @@
           "+75 Carrying capacity",
           "+110% Immunity gain speed",
           "+100% Psychic sensitivity",
+          "+1.0 Melee dodge chance",
           "+100% Global work speed",
           "+100% Drug synthesis speed",
           "+100% Research speed",
           "+115% Hacking speed",
           "+100% Medical tend speed",
           "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+100% Suppressability",
-          "+100% Smoke sensitivity"
+          "+100% Medical surgery success chance"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4679,9 +3765,6 @@
         "stats": [
           "+50.00 Mass",
           "+30% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
           "+$1500 Market value",
           "+4.60 Move speed",
           "+100% Psychic sensitivity",
@@ -4696,9 +3779,7 @@
           "+100.00% Train animal chance",
           "+100% Rest rate multiplier",
           "+100% Global work speed",
-          "+100% Global learning factor",
-          "+0.13 Armor - Sharp",
-          "+1 Armor - Blunt"
+          "+100% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
