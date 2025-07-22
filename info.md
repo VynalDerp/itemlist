@@ -111,9 +111,9 @@ ONLY COPY itemane[materialtype,quality]. No spaces.
 - Utility \ utility slot - any *4
 - Utility \ legs - chemlightlegpack (any)
 
-*1 Janissary for toxic resist, vacsuit for 100% vaccume resistance (unnecessary if using bionic suit).
-*2 Uniform for protection, Uniforme Pischica for psychic sensitivity, Bionicsuit for movespeed, toxic resistance, and 30% vaccume resistance.<br/>
-*3 Janissary for better torso protection, Deserter for better leg protection. Deserter cannot be combined with flak vest.
+*1 Janissary for toxic resist, vacsuit for 100% vaccume resistance (unnecessary if using bionic suit). <br/>
+*2 Uniform for protection, Uniforme Pischica for psychic sensitivity, Bionicsuit for movespeed, toxic resistance, and 30% vaccume resistance. <br/>
+*3 Janissary for better torso protection, Deserter for better leg protection. Deserter cannot be combined with flak vest. <br/>
 *4 Check next section for details <br/>
 
 ## Utility Items
