@@ -103,24 +103,18 @@ Format: Layer \ Coverage - itemname[materialtype,quality]
 
 ONLY COPY itemane[materialtype,quality]. No spaces.
 
-- Outer (Head) \ full - ironhelm[solar-forgedsteel,legendary]
-- Strapped (Head) \ eyes - nightvisiongoggles (any)
-- Strapped (Head) \ head, ears - gunlink (any)
-- Strapped (Head) \ jaw - facemask[milirafeather,legendary]
-- Skin (Head) \ neck, jaw - stealthmask[milirafeather,legendary]
-- Middle\ full - ironhide[solar-forgedsteel,legendary]
-- Skin \ full - fragsuit[milirafeather,legendary] OR uniformepischica[legendary] OR orassanflightsuit[legendary] *1
-- Outer \ full - gorkacombatbodysuit[milirafeather,legendary]
-- Webbing \ shoulders - aternitignianimperialarmysuspenders[legendary]
-- Webbing \ utility slot - any *2
-- Utility \ utility slot - any *3
+- Headgear \ full - janissaryhelmet[legendary] OR vacsuithelmet[legendary] *1
+- Eyes \ eyes - nightvisiongoggles (any)
+- Middle\ full - flakvest[solar-forgedsteel,legendary]
+- Skin \ full - bionicsuit[legendary] OR uniformepischica[legendary] OR uniform[milirafeather,legendary] *2
+- Outer \ full - janissarycuirass[legendary] OR deserterarmor[legendary] *3
+- Utility \ utility slot - any *4
 - Utility \ legs - chemlightlegpack (any)
-- Backpack \ shoulder - molle2rucksack(ucp) (any) OR closedoxygencylinder (any) *4
 
-*1 Fragsuit for protection, Uniforme for psychic sensitivity, Flight Suit for 50% bleed factor <br/>
-*2 Rimmu-nation belts are identical in cost and stats. <br/>
-*3 Check next section for details <br/>
-*4 MOLLE for bulk/mass increase, Closed Oxygen Cylinder for pain shock/move speed <br/>
+*1 Janissary for toxic resist, vacsuit for 100% vaccume resistance (unnecessary if using bionic suit).
+*2 Uniform for protection, Uniforme Pischica for psychic sensitivity, Bionicsuit for movespeed, toxic resistance, and 30% vaccume resistance.<br/>
+*3 Janissary for better torso protection, Deserter for better leg protection. Deserter cannot be combined with flak vest.
+*4 Check next section for details <br/>
 
 ## Utility Items
 
@@ -129,11 +123,10 @@ Pick one, based on your character build. Torso slots do not conflict with utilit
 - Utility Slot - jumppack[awful]
 - Utility Slot - medicbag[awful] (surgery success, tend quality)
 - Utility Slot - portableassistantcomputer (work speed, learning factor, research speed, hack speed, aim time, ranged cooldown, melee cooldown)
-- Utility Slot - rangedshieldbelt[legendary]
-- Utility Slot - shieldbelt[legendary]
+- Utility Slot - rangedshieldbelt[legendary] (for ranged pawns)
+- Utility Slot - shieldbelt[legendary] (for melee pawns)
 - Utility Slot - toolbelt[awful] (repair success, construction speed, construct success)
-- Torso - sashimonobanner[awful] (pain shock, suppressability)
-- Torso - quiver[awful] (reload speed, ranged cooldown)
+- Torso - quiver[awful] (ranged cooldown)
 
 
 
@@ -144,7 +137,6 @@ Best materials also change from playthrough to playthrough. Currently, the best 
 Cloths:
 - Milira Feather
 - Hyperweave
-- Blue Cat Lily
 - Aramid Cloth
 - Araneron
 
