@@ -56,11 +56,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -227,7 +222,7 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 100,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -321,5 +316,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 64
+	"total": 63
 }

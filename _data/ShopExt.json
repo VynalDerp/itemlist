@@ -3447,7 +3447,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2000
+      "price": 1337
     },
     {
       "data": {
@@ -3714,7 +3714,8 @@
           "-540.0F Min comfortable temperature",
           "+41.4F Max comfortable temperature",
           "+3 Honor value",
-          "+0% Stagger time multiplier"
+          "+0% Stagger time multiplier",
+          "+100% Vacuum resistance"
         ],
         "mod": "Unknown",
         "karmaType": null
