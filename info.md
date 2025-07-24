@@ -105,7 +105,7 @@ ONLY COPY itemane[materialtype,quality]. No spaces.
 
 - Headgear \ full - janissaryhelmet[legendary] OR vacsuithelmet[legendary] *1
 - Eyes \ eyes - nightvisiongoggles (any)
-- Middle\ full - flakvest[solar-forgedsteel,legendary]
+- Middle \ full - armoredconcealedrig[legendary]
 - Skin \ full - bionicsuit[legendary] OR uniformepischica[legendary] OR uniform[milirafeather,legendary] *2
 - Outer \ full - janissarycuirass[legendary] OR deserterarmor[legendary] *3
 - Utility \ utility slot - any *4
