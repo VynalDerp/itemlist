@@ -145,6 +145,50 @@ Metals:
 - Plasteel OR Tungsteel
 - Amorphous Polymer
 
+## What are the best bionics?
+
+Brain
+- Auxilliary AI (Commando) OR Auxilliary AI (Brawler)
+- Psychic Sensitizer
+- Neurocalculator (research)
+- Psychic Reader (social)
+
+Eyes
+- Tacitcal Cornea Implant OR Tactical Bionic Eye
+- Medically Assisted Ocular
+- Archotech Eye
+
+Torso
+- Healing Enhancer
+- Coagulator
+- Protective Exoskeleton OR Exoskeleton Suit
+
+Ribcage
+- Painkiller Rib
+- Adrenaline Rib
+- Wake-up Rib
+- Coagulator Rib
+- Repsiration Rib
+- Medical Rib
+- Heating Rib
+- Cooling Rib
+
+Spine
+- Neuroaccelerate Spine
+- Bionic Locomotion Spine (Snakes only)
+
+Legs
+- Shock-absorbing Robot Leg
+- Archotech Leg
+- Bionic Strider Leg (non-player pawns)
+
+Arms
+- Archotech Arm
+- Industrial Hydraulic Arm
+- Surgical Mechanic Arm
+- Advanced Drill Arm
+- Advanced Field Hand
+
 {%- if puppeteer -%}
 <br/>
 ## What is Puppeteer?
