@@ -103,17 +103,16 @@ Format: Layer \ Coverage - itemname[materialtype,quality]
 
 ONLY COPY itemane[materialtype,quality]. No spaces.
 
-- Headgear \ full - janissaryhelmet[legendary] OR vacsuithelmet[legendary] *1
+- Headgear \ full - daedaluscrown[solar-forgedsteel,legendary] OR valkyriehelmet[solar-forgedsteel,legendary] *1 *2
 - Eyes \ eyes - nightvisiongoggles (any)
 - Middle \ full - armoredconcealedrig[legendary]
-- Skin \ full - bionicsuit[legendary] OR uniformepischica[legendary] OR uniform[milirafeather,legendary] *2
-- Outer \ full - janissarycuirass[legendary] OR deserterarmor[legendary] *3
+- Skin, Outer \ full - daedalusarmor[solar-forgedsteel,legendary] OR valkyriearmor[solar-forgedsteel,legendary] *1 *2
 - Utility \ utility slot - any *4
 - Utility \ legs - chemlightlegpack (any)
 
-*1 Janissary for toxic resist, vacsuit for 100% vaccume resistance (unnecessary if using bionic suit). <br/>
-*2 Uniform for protection, Uniforme Pischica for psychic sensitivity, Bionicsuit for movespeed, toxic resistance, and 30% vaccume resistance. <br/>
-*3 Janissary for better torso protection, Deserter for better leg protection. Deserter cannot be combined with flak vest. <br/>
+*1 Daedalus set for mechanitors, Valkyrie for everyone else. <br/>
+*2 The only major difference between steel and solar-forgedsteel is item durability. <br/>
+*3 Uniform for protection, Uniforme Pischica for psychic sensitivity, Bionicsuit for movespeed, toxic resistance, and 30% vaccume resistance. <br/>
 *4 Check next section for details <br/>
 
 ## Utility Items
